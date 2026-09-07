@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Senthan & Co — Barbershop & Salon Template Collection</title>
+<meta name="description" content="Six distinct barbershop and hair salon HTML templates by Senthan & Co.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,600&family=Inter:wght@400;500;600;700&family=Space+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0D0D10; --bg-card:#151519; --ink:#F2F0EC; --ink-dim:#8E8C92; --line:rgba(242,240,236,0.1);
+  }
+  *{box-sizing:border-box;}
+  body{ margin:0; background:var(--bg); color:var(--ink); font-family:'Inter',sans-serif; line-height:1.6; }
+  h1,h2{ font-family:'Fraunces',serif; font-weight:600; margin:0; }
+  .mono{ font-family:'Space Mono',monospace; }
+  a{ color:inherit; }
+  .wrap{ max-width:1180px; margin:0 auto; padding:0 24px; }
+  header{ padding:90px 0 60px; text-align:center; border-bottom:1px solid var(--line); }
+  header p.eyebrow{ font-family:'Space Mono',monospace; font-size:.75rem; letter-spacing:.18em; text-transform:uppercase; color:var(--ink-dim); margin-bottom:18px; }
+  header h1{ font-size:clamp(2rem,5vw,3.2rem); margin-bottom:18px; }
+  header p.lede{ color:var(--ink-dim); max-width:56ch; margin:0 auto; font-size:1.05rem; }
+
+  .grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:24px; padding:70px 0; }
+  @media (max-width:900px){ .grid{ grid-template-columns:repeat(2,1fr); } }
+  @media (max-width:620px){ .grid{ grid-template-columns:1fr; } }
+
+  .card{
+    background:var(--bg-card); border:1px solid var(--line); border-radius:10px; padding:0;
+    overflow:hidden; text-decoration:none; display:flex; flex-direction:column;
+    transition:transform .25s ease, border-color .25s ease;
+  }
+  .card:hover{ transform:translateY(-4px); border-color:var(--swatch); }
+  .card-top{ height:8px; background:var(--swatch); }
+  .card-body{ padding:26px; flex:1; display:flex; flex-direction:column; }
+  .card-eyebrow{ font-family:'Space Mono',monospace; font-size:.68rem; letter-spacing:.1em; text-transform:uppercase; color:var(--swatch); margin-bottom:10px; }
+  .card h2{ font-size:1.35rem; margin-bottom:10px; color:var(--ink); }
+  .card p{ color:var(--ink-dim); font-size:.92rem; margin:0 0 20px; flex:1; }
+  .card-cta{ font-family:'Space Mono',monospace; font-size:.75rem; letter-spacing:.05em; text-transform:uppercase; color:var(--ink); display:flex; align-items:center; gap:8px; }
+  .card-cta svg{ transition:transform .2s ease; }
+  .card:hover .card-cta svg{ transform:translateX(4px); }
+
+  .badges{ display:flex; gap:8px; flex-wrap:wrap; margin-top:auto; padding-top:16px; }
+  .badge{ font-family:'Space Mono',monospace; font-size:.62rem; letter-spacing:.03em; text-transform:uppercase; color:var(--ink-dim); border:1px solid var(--line); border-radius:20px; padding:4px 10px; }
+
+  footer{ border-top:1px solid var(--line); padding:44px 0; text-align:center; color:var(--ink-dim); font-family:'Space Mono',monospace; font-size:.8rem; }
+  footer a{ color:var(--ink); text-decoration:underline; }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="wrap">
+    <p class="eyebrow">SENTHAN &amp; CO — TEMPLATE COLLECTION</p>
+    <h1>Six Barbershops. Six Identities.</h1>
+    <p class="lede">A set of distinct, self-contained HTML landing pages for barbershops, braid studios, and hair salons — each with its own visual language, all sharing the same production architecture: dark/light mode, 7-language i18n, base64-embedded photography, zero dependencies.</p>
+  </div>
+</header>
+
+<div class="wrap">
+  <div class="grid">
+
+    <a class="card" href="./heritage-barber-co/index.html" style="--swatch:#C7A06C;">
+      <div class="card-top"></div>
+      <div class="card-body">
+        <p class="card-eyebrow">Classic &amp; Vintage</p>
+        <h2>Heritage Barber Co.</h2>
+        <p>A "family trade since 1962" identity — leather-and-brass palette, an animated CSS barber pole, ticket-stub service menu, and a real chronological heritage timeline.</p>
+        <div class="badges">
+          <span class="badge">Dark default</span>
+          <span class="badge">Fraunces</span>
+        </div>
+        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+      </div>
+    </a>
+
+    <a class="card" href="./fade-lab/index.html" style="--swatch:#CBFF3D;">
+      <div class="card-top"></div>
+      <div class="card-body">
+        <p class="card-eyebrow">Modern &amp; Urban</p>
+        <h2>Fade Lab</h2>
+        <p>Bold Anton display type, an electric lime/coral palette, rotated grade-badge service cards, and a hover-desaturated fade &amp; hair-art photo wall.</p>
+        <div class="badges">
+          <span class="badge">Dark default</span>
+          <span class="badge">Anton</span>
+        </div>
+        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+      </div>
+    </a>
+
+    <a class="card" href="./noir-blade/index.html" style="--swatch:#C9A24B;">
+      <div class="card-top"></div>
+      <div class="card-body">
+        <p class="card-eyebrow">Luxury &amp; Editorial</p>
+        <h2>Noir Blade</h2>
+        <p>An appointment-only grooming lounge — italic Bodoni Moda headlines, a restrained black-and-gold palette, and a distinctive 4-step "Ritual" walkthrough.</p>
+        <div class="badges">
+          <span class="badge">Dark default</span>
+          <span class="badge">Bodoni Moda</span>
+        </div>
+        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+      </div>
+    </a>
+
+    <a class="card" href="./crown-braids/index.html" style="--swatch:#D98C4A;">
+      <div class="card-top"></div>
+      <div class="card-body">
+        <p class="card-eyebrow">Regal &amp; Geometric</p>
+        <h2>Crown Braids</h2>
+        <p>A men's braid specialist studio — Cinzel display type, a copper/violet palette, and a pure-CSS herringbone "braid weave" section divider.</p>
+        <div class="badges">
+          <span class="badge">Dark default</span>
+          <span class="badge">Cinzel</span>
+        </div>
+        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+      </div>
+    </a>
+
+    <a class="card" href="./hue-curl-studio/index.html" style="--swatch:#E85D4E;">
+      <div class="card-top"></div>
+      <div class="card-body">
+        <p class="card-eyebrow">Warm &amp; Vibrant</p>
+        <h2>Hue &amp; Curl Studio</h2>
+        <p>A natural hair &amp; color studio — DM Serif Display headlines, a soft morphing CSS blob hero, and a visual swatch-dot color menu.</p>
+        <div class="badges">
+          <span class="badge">Light default</span>
+          <span class="badge">DM Serif</span>
+        </div>
+        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+      </div>
+    </a>
+
+    <a class="card" href="./braid-bar/index.html" style="--swatch:#F2622E;">
+      <div class="card-top"></div>
+      <div class="card-body">
+        <p class="card-eyebrow">Joyful &amp; Communal</p>
+        <h2>The Braid Bar</h2>
+        <p>A walk-in-friendly community braiding salon — rounded Fredoka type, a chalkboard-style menu board, and a beaded orange/teal/pink section divider.</p>
+        <div class="badges">
+          <span class="badge">Light default</span>
+          <span class="badge">Fredoka</span>
+        </div>
+        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
+      </div>
+    </a>
+
+  </div>
+</div>
+
+<footer>
+  Built by Senthan &amp; Co · 📞 +256 754 069 314 · ✉️ jonathanrivers0414@gmail.com
+</footer>
+
+</body>
+</html>
