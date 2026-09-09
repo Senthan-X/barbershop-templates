@@ -6,7 +6,7 @@ A single-file, dependency-free landing page for a joyful, walk-in-friendly braid
 
 ## Live sections
 
-- Sticky nav, language switcher, dark/light toggle (defaults to light)
+- Sticky nav, language switcher, dark/light toggle
 - Warm, rounded Fredoka display type for a friendly, communal feel
 - Pure-CSS "bead divider" — alternating orange/teal/pink dots echoing braiding beads
 - "The Menu" — a chalkboard-style service list (Box Braids, Knotless, Kids Braids, Removal & Treatment)
@@ -25,7 +25,7 @@ Single HTML file, zero build step, base64-embedded WebP photography, CSS custom 
 |---|---|
 | Brand name | Search "The Braid Bar" throughout |
 | Colors | `:root[data-theme="light"]` / `"dark"` — `--orange`, `--teal`, `--pink` are the signature accents |
-| Fonts | Google Fonts link in `<head>` — Fredoka (display) / Nunito (body) / Red Hat Mono (utility) |
+| Fonts | Font-family declarations in the main `<style>` block; the templates use dependency-free system fallbacks |
 | Copy & translations | `translations` object near the bottom `<script>` |
 | Images | Swap the base64 `data:image/webp;base64,...` strings on the relevant `<img>` tags |
 | Bead divider | `.bead-divider` in the CSS — pure gradient dots, no external asset |
@@ -33,7 +33,7 @@ Single HTML file, zero build step, base64-embedded WebP photography, CSS custom 
 
 ## Credits
 
-Built by **Senthan & Co**. 📞 +256 754 069 314 · ✉️ jonathanrivers0414@gmail.com
+Built by **Senthan & Co**. 📞 +256 754 069 314
 
 ## License
 

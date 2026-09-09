@@ -25,7 +25,7 @@ Single HTML file, zero build step, base64-embedded WebP photography, CSS custom 
 |---|---|
 | Brand name | Search "Noir Blade" throughout |
 | Colors | `:root[data-theme="dark"]` / `"light"` — `--gold` and `--gold-bright` are the signature accents |
-| Fonts | Google Fonts link in `<head>` — Bodoni Moda (display) / Jost (body) / Space Mono (utility) |
+| Fonts | Font-family declarations in the main `<style>` block; the templates use dependency-free system fallbacks |
 | Copy & translations | `translations` object near the bottom `<script>` |
 | Images | Swap the base64 `data:image/webp;base64,...` strings on the relevant `<img>` tags |
 | Pricing | `.service-price` spans in the Services section |
@@ -33,7 +33,7 @@ Single HTML file, zero build step, base64-embedded WebP photography, CSS custom 
 
 ## Credits
 
-Built by **Senthan & Co**. 📞 +256 754 069 314 · ✉️ jonathanrivers0414@gmail.com
+Built by **Senthan & Co**. 📞 +256 754 069 314
 
 ## License
 

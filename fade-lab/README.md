@@ -25,8 +25,8 @@ Same architecture as the rest of the set: single HTML file, zero build step, bas
 | What | Where |
 |---|---|
 | Brand name / tagline | Search `FADE` / `LAB` and "Your head is the canvas" |
-| Colors | `:root[data-theme="dark"]` / `light"` blocks — `--lime` and `--coral` are the signature accents |
-| Fonts | Google Fonts link in `<head>` — Anton (display) / Inter (body) / IBM Plex Mono (utility) |
+| Colors | `:root[data-theme="dark"]` / `:root[data-theme="light"]` blocks — `--lime` and `--coral` are the signature accents |
+| Fonts | Font-family declarations in the main `<style>` block; the templates use dependency-free system fallbacks |
 | Copy & translations | `translations` object near the bottom `<script>` |
 | Images | Swap the base64 `data:image/webp;base64,...` strings on the relevant `<img>` tags |
 | Grade badges | `.grade-badge` elements in the Menu section — edit the rotated sticker text |
@@ -34,7 +34,7 @@ Same architecture as the rest of the set: single HTML file, zero build step, bas
 
 ## Credits
 
-Built by **Senthan & Co**. 📞 +256 754 069 314 · ✉️ jonathanrivers0414@gmail.com
+Built by **Senthan & Co**. 📞 +256 754 069 314
 
 ## License
 

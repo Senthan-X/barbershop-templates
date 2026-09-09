@@ -30,10 +30,10 @@ A single-file, dependency-free landing page for a classic, old-world barbershop.
 |---|---|
 | Brand name, tagline, est. year | Search `Heritage Barber Co.` and `1962` in `index.html` |
 | Colors | `:root[data-theme="dark"]` / `:root[data-theme="light"]` custom properties near the top of `<style>` |
-| Fonts | Google Fonts `<link>` in `<head>` — currently Fraunces / Work Sans / Space Mono |
+| Fonts | Font-family declarations in the main `<style>` block; the template uses dependency-free system fallbacks |
 | Copy & translations | `translations` object near the bottom `<script>` — one object per language code |
 | Images | Replace the base64 `data:image/webp;base64,...` strings on the relevant `<img>` tags |
-| Contact details | `.book-contacts` block (phone / email) |
+| Contact details | `.book-contacts` block (phone) |
 | Booking form | Wire `#bookForm`'s submit handler to Formspree, EmailJS, or your own backend |
 
 ## Adding a language
@@ -50,7 +50,7 @@ Modern evergreen browsers (Chrome, Firefox, Safari, Edge). Uses `IntersectionObs
 ## Credits
 
 Built by **Senthan & Co** — HTML/web templates for Codester & ThemeForest.
-📞 +256 754 069 314 · ✉️ jonathanrivers0414@gmail.com
+📞 +256 754 069 314
 
 ## License
 

@@ -1,157 +1,21 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Senthan & Co — Barbershop & Salon Template Collection</title>
-<meta name="description" content="Six distinct barbershop and hair salon HTML templates by Senthan & Co.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,600&family=Inter:wght@400;500;600;700&family=Space+Mono:wght@400;600&display=swap" rel="stylesheet">
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="color-scheme" content="light dark">
+<title>Senthan &amp; Co — Barbershop &amp; Salon Templates</title><meta name="description" content="Six distinct barbershop, braid studio, and hair salon HTML templates by Senthan & Co.">
+<script>(function(){try{var s=localStorage.getItem('sc_theme');document.documentElement.dataset.theme=s||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light')}catch(e){document.documentElement.dataset.theme='dark'}})()</script>
 <style>
-  :root{
-    --bg:#0D0D10; --bg-card:#151519; --ink:#F2F0EC; --ink-dim:#8E8C92; --line:rgba(242,240,236,0.1);
-  }
-  *{box-sizing:border-box;}
-  body{ margin:0; background:var(--bg); color:var(--ink); font-family:'Inter',sans-serif; line-height:1.6; }
-  h1,h2{ font-family:'Fraunces',serif; font-weight:600; margin:0; }
-  .mono{ font-family:'Space Mono',monospace; }
-  a{ color:inherit; }
-  .wrap{ max-width:1180px; margin:0 auto; padding:0 24px; }
-  header{ padding:90px 0 60px; text-align:center; border-bottom:1px solid var(--line); }
-  header p.eyebrow{ font-family:'Space Mono',monospace; font-size:.75rem; letter-spacing:.18em; text-transform:uppercase; color:var(--ink-dim); margin-bottom:18px; }
-  header h1{ font-size:clamp(2rem,5vw,3.2rem); margin-bottom:18px; }
-  header p.lede{ color:var(--ink-dim); max-width:56ch; margin:0 auto; font-size:1.05rem; }
-
-  .grid{ display:grid; grid-template-columns:repeat(3,1fr); gap:24px; padding:70px 0; }
-  @media (max-width:900px){ .grid{ grid-template-columns:repeat(2,1fr); } }
-  @media (max-width:620px){ .grid{ grid-template-columns:1fr; } }
-
-  .card{
-    background:var(--bg-card); border:1px solid var(--line); border-radius:10px; padding:0;
-    overflow:hidden; text-decoration:none; display:flex; flex-direction:column;
-    transition:transform .25s ease, border-color .25s ease;
-  }
-  .card:hover{ transform:translateY(-4px); border-color:var(--swatch); }
-  .card-top{ height:8px; background:var(--swatch); }
-  .card-body{ padding:26px; flex:1; display:flex; flex-direction:column; }
-  .card-eyebrow{ font-family:'Space Mono',monospace; font-size:.68rem; letter-spacing:.1em; text-transform:uppercase; color:var(--swatch); margin-bottom:10px; }
-  .card h2{ font-size:1.35rem; margin-bottom:10px; color:var(--ink); }
-  .card p{ color:var(--ink-dim); font-size:.92rem; margin:0 0 20px; flex:1; }
-  .card-cta{ font-family:'Space Mono',monospace; font-size:.75rem; letter-spacing:.05em; text-transform:uppercase; color:var(--ink); display:flex; align-items:center; gap:8px; }
-  .card-cta svg{ transition:transform .2s ease; }
-  .card:hover .card-cta svg{ transform:translateX(4px); }
-
-  .badges{ display:flex; gap:8px; flex-wrap:wrap; margin-top:auto; padding-top:16px; }
-  .badge{ font-family:'Space Mono',monospace; font-size:.62rem; letter-spacing:.03em; text-transform:uppercase; color:var(--ink-dim); border:1px solid var(--line); border-radius:20px; padding:4px 10px; }
-
-  footer{ border-top:1px solid var(--line); padding:44px 0; text-align:center; color:var(--ink-dim); font-family:'Space Mono',monospace; font-size:.8rem; }
-  footer a{ color:var(--ink); text-decoration:underline; }
-</style>
-</head>
-<body>
-
-<header>
-  <div class="wrap">
-    <p class="eyebrow">SENTHAN &amp; CO — TEMPLATE COLLECTION</p>
-    <h1>Six Barbershops. Six Identities.</h1>
-    <p class="lede">A set of distinct, self-contained HTML landing pages for barbershops, braid studios, and hair salons — each with its own visual language, all sharing the same production architecture: dark/light mode, 7-language i18n, base64-embedded photography, zero dependencies.</p>
-  </div>
-</header>
-
-<div class="wrap">
-  <div class="grid">
-
-    <a class="card" href="./heritage-barber-co/index.html" style="--swatch:#C7A06C;">
-      <div class="card-top"></div>
-      <div class="card-body">
-        <p class="card-eyebrow">Classic &amp; Vintage</p>
-        <h2>Heritage Barber Co.</h2>
-        <p>A "family trade since 1962" identity — leather-and-brass palette, an animated CSS barber pole, ticket-stub service menu, and a real chronological heritage timeline.</p>
-        <div class="badges">
-          <span class="badge">Dark default</span>
-          <span class="badge">Fraunces</span>
-        </div>
-        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
-      </div>
-    </a>
-
-    <a class="card" href="./fade-lab/index.html" style="--swatch:#CBFF3D;">
-      <div class="card-top"></div>
-      <div class="card-body">
-        <p class="card-eyebrow">Modern &amp; Urban</p>
-        <h2>Fade Lab</h2>
-        <p>Bold Anton display type, an electric lime/coral palette, rotated grade-badge service cards, and a hover-desaturated fade &amp; hair-art photo wall.</p>
-        <div class="badges">
-          <span class="badge">Dark default</span>
-          <span class="badge">Anton</span>
-        </div>
-        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
-      </div>
-    </a>
-
-    <a class="card" href="./noir-blade/index.html" style="--swatch:#C9A24B;">
-      <div class="card-top"></div>
-      <div class="card-body">
-        <p class="card-eyebrow">Luxury &amp; Editorial</p>
-        <h2>Noir Blade</h2>
-        <p>An appointment-only grooming lounge — italic Bodoni Moda headlines, a restrained black-and-gold palette, and a distinctive 4-step "Ritual" walkthrough.</p>
-        <div class="badges">
-          <span class="badge">Dark default</span>
-          <span class="badge">Bodoni Moda</span>
-        </div>
-        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
-      </div>
-    </a>
-
-    <a class="card" href="./crown-braids/index.html" style="--swatch:#D98C4A;">
-      <div class="card-top"></div>
-      <div class="card-body">
-        <p class="card-eyebrow">Regal &amp; Geometric</p>
-        <h2>Crown Braids</h2>
-        <p>A men's braid specialist studio — Cinzel display type, a copper/violet palette, and a pure-CSS herringbone "braid weave" section divider.</p>
-        <div class="badges">
-          <span class="badge">Dark default</span>
-          <span class="badge">Cinzel</span>
-        </div>
-        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
-      </div>
-    </a>
-
-    <a class="card" href="./hue-curl-studio/index.html" style="--swatch:#E85D4E;">
-      <div class="card-top"></div>
-      <div class="card-body">
-        <p class="card-eyebrow">Warm &amp; Vibrant</p>
-        <h2>Hue &amp; Curl Studio</h2>
-        <p>A natural hair &amp; color studio — DM Serif Display headlines, a soft morphing CSS blob hero, and a visual swatch-dot color menu.</p>
-        <div class="badges">
-          <span class="badge">Light default</span>
-          <span class="badge">DM Serif</span>
-        </div>
-        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
-      </div>
-    </a>
-
-    <a class="card" href="./braid-bar/index.html" style="--swatch:#F2622E;">
-      <div class="card-top"></div>
-      <div class="card-body">
-        <p class="card-eyebrow">Joyful &amp; Communal</p>
-        <h2>The Braid Bar</h2>
-        <p>A walk-in-friendly community braiding salon — rounded Fredoka type, a chalkboard-style menu board, and a beaded orange/teal/pink section divider.</p>
-        <div class="badges">
-          <span class="badge">Light default</span>
-          <span class="badge">Fredoka</span>
-        </div>
-        <div class="card-cta">View Template <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M5 12h14M13 6l6 6-6 6"/></svg></div>
-      </div>
-    </a>
-
-  </div>
-</div>
-
-<footer>
-  Built by Senthan &amp; Co · 📞 +256 754 069 314 · ✉️ jonathanrivers0414@gmail.com
-</footer>
-
-</body>
-</html>
+:root[data-theme=dark]{--bg:#0c0d10;--card:#17191e;--ink:#f5f1e9;--muted:#aaa7a0;--line:#ffffff1d;--accent:#d4a66c;--glass:#0c0d10dd;--shadow:#0007}:root[data-theme=light]{--bg:#f3eee5;--card:#fffdf8;--ink:#171612;--muted:#68645d;--line:#17161222;--accent:#895528;--glass:#f3eee5e8;--shadow:#5332}*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font-family:Inter,system-ui,sans-serif;line-height:1.6}.wrap{width:min(1180px,calc(100% - 40px));margin:auto}a{color:inherit}.skip{position:fixed;top:8px;left:8px;z-index:99;transform:translateY(-150%);background:var(--card);padding:9px 13px}.skip:focus{transform:none}.site-head{position:sticky;top:0;z-index:40;border-bottom:1px solid var(--line)}.site-head:before{content:"";position:absolute;inset:0;background:var(--glass);backdrop-filter:blur(14px);z-index:-1}.nav{min-height:70px;display:flex;align-items:center;justify-content:space-between}.brand{font:700 1.2rem Georgia,serif;text-decoration:none}.brand b{color:var(--accent)}.actions{display:flex;align-items:center;gap:16px}.actions a{text-decoration:none;color:var(--muted);font-size:.88rem}.icon,.top{border:1px solid var(--line);background:var(--card);color:var(--ink);display:grid;place-items:center;cursor:pointer;border-radius:50%}.icon{width:42px;height:42px}.hero{padding:clamp(72px,10vw,124px) 0 70px;border-bottom:1px solid var(--line);background:radial-gradient(circle at 10% 15%,color-mix(in srgb,var(--accent) 22%,transparent),transparent 32%)}.hero-grid{display:grid;grid-template-columns:1.2fr .8fr;gap:60px;align-items:end}.eyebrow{color:var(--accent);font:700 .7rem ui-monospace,monospace;letter-spacing:.17em;text-transform:uppercase}.hero h1{font:700 clamp(2.8rem,7vw,6rem)/.98 Georgia,serif;letter-spacing:-.05em;margin:14px 0;max-width:10ch}.lede{color:var(--muted);font-size:1.05rem}.stats{display:flex;gap:25px}.stats strong{display:block;font:700 1.5rem Georgia,serif}.stats span{color:var(--muted);font-size:.68rem;text-transform:uppercase;letter-spacing:.08em}main{padding:70px 0 92px}.intro{display:flex;justify-content:space-between;align-items:end;gap:25px}.intro h2{font:700 clamp(2rem,4vw,3.3rem)/1.05 Georgia,serif;margin:10px 0}.intro p{color:var(--muted);max-width:50ch}.filters{display:flex;gap:9px;flex-wrap:wrap;margin:28px 0}.filter{border:1px solid var(--line);background:var(--card);color:var(--muted);padding:9px 14px;border-radius:99px;cursor:pointer}.filter[aria-pressed=true]{background:var(--ink);color:var(--bg)}.grid{display:grid;grid-template-columns:repeat(2,1fr);gap:26px}.card{--swatch:var(--accent);background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden;box-shadow:0 18px 45px var(--shadow);transition:.25s}.card:hover{transform:translateY(-5px);border-color:var(--swatch)}.preview{aspect-ratio:16/10;overflow:hidden;border-bottom:1px solid var(--line);background:#ddd}.preview iframe{width:1440px;height:900px;border:0;transform:scale(.397);transform-origin:top left;pointer-events:none}.body{padding:24px}.type{color:var(--swatch);font:700 .68rem ui-monospace,monospace;letter-spacing:.12em;text-transform:uppercase}.body h3{font:700 1.75rem Georgia,serif;margin:10px 0}.body p{color:var(--muted);margin:0 0 18px}.badges{display:flex;gap:7px;flex-wrap:wrap;margin-bottom:18px}.badge{font-size:.69rem;color:var(--muted);border:1px solid var(--line);padding:4px 9px;border-radius:99px}.view{font-weight:700;text-decoration:none}.view:hover{color:var(--swatch)}.standards{margin-top:70px;padding:32px;border:1px solid var(--line);border-radius:18px;background:var(--card)}.standards h2{font:700 2rem Georgia,serif}.standard-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px}.standard-grid span{display:block;color:var(--muted);font-size:.84rem;margin-top:5px}footer{border-top:1px solid var(--line);padding:28px 0;color:var(--muted);font-size:.84rem}.foot{display:flex;justify-content:space-between;gap:20px}.top{position:fixed;right:22px;bottom:22px;width:44px;height:44px;opacity:0;visibility:hidden;transform:translateY(10px);transition:.2s;box-shadow:0 10px 25px var(--shadow)}.top.show{opacity:1;visibility:visible;transform:none}[hidden]{display:none!important}:focus-visible{outline:2px solid var(--accent);outline-offset:3px}@media(max-width:780px){.hero-grid,.grid{grid-template-columns:1fr}.intro{display:block}.standard-grid{grid-template-columns:1fr 1fr}.preview iframe{transform:scale(.34)}}@media(max-width:480px){.wrap{width:calc(100% - 28px)}.actions a{display:none}.standard-grid{grid-template-columns:1fr}.preview iframe{transform:scale(.27)}}@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.card,.top{transition:none}}
+</style></head><body><a class="skip" href="#collection">Skip to collection</a>
+<header class="site-head"><div class="wrap nav"><a class="brand" href="#top">Senthan <b>&amp; Co</b></a><div class="actions"><a href="#collection">Explore all six</a><button type="button" class="icon" id="theme" aria-label="Toggle light and dark theme">◐</button></div></div></header>
+<section class="hero" id="top"><div class="wrap hero-grid"><div><p class="eyebrow">Barbershop &amp; salon collection</p><h1>Six shops. Six identities.</h1></div><div><p class="lede">A professional, multipurpose collection for barbershops, grooming lounges, braid studios, and hair salons.</p><div class="stats"><div><strong>06</strong><span>templates</span></div><div><strong>07</strong><span>languages</span></div><div><strong>0</strong><span>dependencies</span></div></div></div></div></section>
+<main id="collection"><div class="wrap"><div class="intro"><div><p class="eyebrow">Live template previews</p><h2>Find the right character.</h2></div><p>Filter by business type, then open any design. Every preview is rendered from the actual template—not generated artwork.</p></div>
+<div class="filters" role="group" aria-label="Filter templates"><button type="button" class="filter" data-filter="all" aria-pressed="true">All templates</button><button type="button" class="filter" data-filter="barber" aria-pressed="false">Barbershops</button><button type="button" class="filter" data-filter="braid" aria-pressed="false">Braid studios</button><button type="button" class="filter" data-filter="salon" aria-pressed="false">Hair salons</button></div><div class="grid">
+<!-- Cards are live, scaled views of the actual HTML templates. -->
+<article class="card" data-category="barber" style="--swatch:#c7a06c"><div class="preview"><iframe src="heritage-barber-co/index.html" loading="lazy" title="Heritage Barber Co. live preview" tabindex="-1"></iframe></div><div class="body"><span class="type">Classic · Vintage</span><h3>Heritage Barber Co.</h3><p>Leather-and-brass styling, a heritage timeline, ticket services, and an animated barber pole.</p><div class="badges"><span class="badge">System theme</span><span class="badge">7 languages</span><span class="badge">RTL</span></div><a class="view" href="heritage-barber-co/index.html">Open live template →</a></div></article>
+<article class="card" data-category="barber" style="--swatch:#cbff3d"><div class="preview"><iframe src="fade-lab/index.html" loading="lazy" title="Fade Lab live preview" tabindex="-1"></iframe></div><div class="body"><span class="type">Modern · Urban</span><h3>Fade Lab</h3><p>A high-energy fade and hair-art studio with graphic grade cards and an editorial gallery.</p><div class="badges"><span class="badge">System theme</span><span class="badge">7 languages</span><span class="badge">RTL</span></div><a class="view" href="fade-lab/index.html">Open live template →</a></div></article>
+<article class="card" data-category="barber" style="--swatch:#c9a24b"><div class="preview"><iframe src="noir-blade/index.html" loading="lazy" title="Noir Blade live preview" tabindex="-1"></iframe></div><div class="body"><span class="type">Luxury · Editorial</span><h3>Noir Blade</h3><p>An appointment-only black-and-gold lounge with a focused four-step grooming ritual.</p><div class="badges"><span class="badge">System theme</span><span class="badge">7 languages</span><span class="badge">RTL</span></div><a class="view" href="noir-blade/index.html">Open live template →</a></div></article>
+<article class="card" data-category="braid" style="--swatch:#d98c4a"><div class="preview"><iframe src="crown-braids/index.html" loading="lazy" title="Crown Braids live preview" tabindex="-1"></iframe></div><div class="body"><span class="type">Regal · Geometric</span><h3>Crown Braids</h3><p>A men’s braid specialist with copper-violet color and weave-inspired details.</p><div class="badges"><span class="badge">System theme</span><span class="badge">7 languages</span><span class="badge">RTL</span></div><a class="view" href="crown-braids/index.html">Open live template →</a></div></article>
+<article class="card" data-category="salon" style="--swatch:#e85d4e"><div class="preview"><iframe src="hue-curl-studio/index.html" loading="lazy" title="Hue and Curl Studio live preview" tabindex="-1"></iframe></div><div class="body"><span class="type">Warm · Vibrant</span><h3>Hue &amp; Curl Studio</h3><p>A natural-hair and color studio with organic shapes and a swatch-led service menu.</p><div class="badges"><span class="badge">System theme</span><span class="badge">7 languages</span><span class="badge">RTL</span></div><a class="view" href="hue-curl-studio/index.html">Open live template →</a></div></article>
+<article class="card" data-category="braid salon" style="--swatch:#f2622e"><div class="preview"><iframe src="braid-bar/index.html" loading="lazy" title="The Braid Bar live preview" tabindex="-1"></iframe></div><div class="body"><span class="type">Joyful · Communal</span><h3>The Braid Bar</h3><p>A walk-in-friendly concept with a playful service board and community-first energy.</p><div class="badges"><span class="badge">System theme</span><span class="badge">7 languages</span><span class="badge">RTL</span></div><a class="view" href="braid-bar/index.html">Open live template →</a></div></article>
+</div><section class="standards"><p class="eyebrow">Shared production standard</p><h2>Built to adapt, designed to stand apart.</h2><div class="standard-grid"><div><strong>Self-contained</strong><span>One HTML file with embedded WebP imagery.</span></div><div><strong>Theme-aware</strong><span>System theme plus remembered override.</span></div><div><strong>Multilingual</strong><span>Seven languages with full Arabic RTL.</span></div><div><strong>Accessible motion</strong><span>Reduced-motion support and Back-to-Top Button.</span></div></div></section></div></main>
+<footer><div class="wrap foot"><span>© <span id="year"></span> Senthan &amp; Co</span><span>Independent HTML template collection</span></div></footer><button type="button" class="top" id="backToTop" aria-label="Back to top">↑</button>
+<script>var root=document.documentElement,theme=document.getElementById('theme');theme.onclick=function(){var n=root.dataset.theme==='dark'?'light':'dark';root.dataset.theme=n;try{localStorage.setItem('sc_theme',n)}catch(e){}};document.querySelectorAll('.filter').forEach(function(b){b.onclick=function(){var f=b.dataset.filter;document.querySelectorAll('.filter').forEach(function(x){x.setAttribute('aria-pressed',x===b)});document.querySelectorAll('.card').forEach(function(c){c.hidden=f!=='all'&&!c.dataset.category.split(' ').includes(f)})}});var topButton=document.getElementById('backToTop');onscroll=function(){topButton.classList.toggle('show',scrollY>500)};topButton.onclick=function(){scrollTo({top:0,behavior:'smooth'})};document.getElementById('year').textContent=new Date().getFullYear()</script></body></html>

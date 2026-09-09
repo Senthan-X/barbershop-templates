@@ -1,12 +1,12 @@
 # Hue & Curl Studio — Natural Hair & Color Studio Template
 
-A single-file, dependency-free landing page for a natural hair and color studio. Version 5 of 6 in the **Senthan & Co** barbershop/salon template set — warm, vibrant, and the only template in the set that defaults to light mode.
+A single-file, dependency-free landing page for a natural hair and color studio. Version 5 of 6 in the **Senthan & Co** barbershop/salon template set — warm, vibrant, and visually expressive.
 
 ![theme](https://img.shields.io/badge/theme-light%2Fdark-E85D4E) ![languages](https://img.shields.io/badge/languages-7-E85D4E) ![dependencies](https://img.shields.io/badge/dependencies-0-FFF6EF)
 
 ## Live sections
 
-- Sticky nav, language switcher, dark/light toggle (defaults to light)
+- Sticky nav, language switcher, dark/light toggle
 - Hero with a soft morphing organic "color blob" behind the photo (pure CSS, no image/svg)
 - Services built around curl type and color, not a generic cut menu
 - "The Color Menu" — a visual swatch-dot row (Cherry Red, Rose Gold, Honey Blonde, Natural Black, Copper, Lavender)
@@ -25,7 +25,7 @@ Single HTML file, zero build step, base64-embedded WebP photography, CSS custom 
 |---|---|
 | Brand name | Search "Hue & Curl Studio" throughout |
 | Colors | `:root[data-theme="light"]` / `"dark"` — `--coral`, `--berry`, `--gold` are the signature accents |
-| Fonts | Google Fonts link in `<head>` — DM Serif Display (headlines) / Poppins (body) / DM Mono (utility) |
+| Fonts | Font-family declarations in the main `<style>` block; the templates use dependency-free system fallbacks |
 | Copy & translations | `translations` object near the bottom `<script>` |
 | Images | Swap the base64 `data:image/webp;base64,...` strings on the relevant `<img>` tags |
 | Color swatches | `.swatch-dot` inline styles in the Color Menu section |
@@ -33,7 +33,7 @@ Single HTML file, zero build step, base64-embedded WebP photography, CSS custom 
 
 ## Credits
 
-Built by **Senthan & Co**. 📞 +256 754 069 314 · ✉️ jonathanrivers0414@gmail.com
+Built by **Senthan & Co**. 📞 +256 754 069 314
 
 ## License
 
