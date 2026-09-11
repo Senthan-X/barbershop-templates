@@ -5,13 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Crown Braids — Every Pattern Is A Crown</title>
 <meta name="description" content="Crown Braids — precision cornrows, feed-ins, and tribal patterns. Book your style.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Mulish:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
 <script>
 (function(){
   try {
-    var theme = localStorage.getItem('cb_theme') || 'dark';
+    var theme = localStorage.getItem('cb_theme') || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     document.documentElement.setAttribute('data-theme', theme);
     var lang = localStorage.getItem('cb_lang') || 'en';
     document.documentElement.setAttribute('lang', lang);
@@ -262,8 +259,7 @@
       <h2 data-i18n="book_title">Book Now</h2>
       <p data-i18n="book_intro">Patterns take time — book ahead, especially for full tribal designs.</p>
       <div class="book-contacts">
-        <span>📞 +256 754 069 314</span>
-        <span>✉️ jonathanrivers0414@gmail.com</span>
+        <a href="tel:+256754069314" aria-label="Call +256 754 069 314">📞 +256 754 069 314</a>
       </div>
     </div>
     <form class="reveal" id="bookForm">

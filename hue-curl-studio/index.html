@@ -5,13 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Hue &amp; Curl Studio — Color That Matches Your Energy</title>
 <meta name="description" content="Hue & Curl Studio — natural hair and color specialists. Curl cuts, vivid color, silk press, and loc retwists.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Poppins:wght@300;400;500;600;700&family=DM+Mono:wght@400;500&display=swap" rel="stylesheet">
 <script>
 (function(){
   try {
-    var theme = localStorage.getItem('hc_theme') || 'light';
+    var theme = localStorage.getItem('hc_theme') || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     document.documentElement.setAttribute('data-theme', theme);
     var lang = localStorage.getItem('hc_lang') || 'en';
     document.documentElement.setAttribute('lang', lang);
@@ -284,8 +281,7 @@
       <h2 data-i18n="book_title">Book Now</h2>
       <p data-i18n="book_intro">Color appointments book out fast — grab your slot early.</p>
       <div class="book-contacts">
-        <span>📞 +256 754 069 314</span>
-        <span>✉️ jonathanrivers0414@gmail.com</span>
+        <a href="tel:+256754069314" aria-label="Call +256 754 069 314">📞 +256 754 069 314</a>
       </div>
     </div>
     <form class="reveal" id="bookForm">

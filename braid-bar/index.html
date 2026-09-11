@@ -5,13 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>The Braid Bar — Pull Up, Get Braided, Stay For The Stories</title>
 <meta name="description" content="The Braid Bar — a community braiding salon. Box braids, knotless, kids braids, and braid removal. Walk-ins welcome.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;500;600;700&family=Nunito:wght@300;400;500;600;700;800&family=Red+Hat+Mono:wght@400;600&display=swap" rel="stylesheet">
 <script>
 (function(){
   try {
-    var theme = localStorage.getItem('bb_theme') || 'light';
+    var theme = localStorage.getItem('bb_theme') || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     document.documentElement.setAttribute('data-theme', theme);
     var lang = localStorage.getItem('bb_lang') || 'en';
     document.documentElement.setAttribute('lang', lang);
@@ -257,8 +254,7 @@
       <h2 data-i18n="book_title">Book Your Seat</h2>
       <p data-i18n="book_intro">Walk-ins welcome most days — but booking guarantees your braider and your size.</p>
       <div class="book-contacts">
-        <span>📞 +256 754 069 314</span>
-        <span>✉️ jonathanrivers0414@gmail.com</span>
+        <a href="tel:+256754069314" aria-label="Call +256 754 069 314">📞 +256 754 069 314</a>
       </div>
     </div>
     <form class="reveal" id="bookForm">

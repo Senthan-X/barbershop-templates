@@ -5,13 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Noir Blade — Precision, Discretion, Craft</title>
 <meta name="description" content="Noir Blade — a private grooming lounge by appointment. Signature cuts, straight razor shaves, and beard refinement.">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:ital,wght@0,400;0,600;1,500&family=Jost:wght@300;400;500;600&family=Space+Mono:wght@400;600&display=swap" rel="stylesheet">
 <script>
 (function(){
   try {
-    var theme = localStorage.getItem('nb_theme') || 'dark';
+    var theme = localStorage.getItem('nb_theme') || (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
     document.documentElement.setAttribute('data-theme', theme);
     var lang = localStorage.getItem('nb_lang') || 'en';
     document.documentElement.setAttribute('lang', lang);
@@ -292,8 +289,7 @@
       <h2 data-i18n="book_title">Reserve Your Visit</h2>
       <p data-i18n="book_intro">Walk-ins are rarely available — reserving ahead is strongly recommended.</p>
       <div class="book-contacts">
-        <span>📞 +256 754 069 314</span>
-        <span>✉️ jonathanrivers0414@gmail.com</span>
+        <a href="tel:+256754069314" aria-label="Call +256 754 069 314">📞 +256 754 069 314</a>
       </div>
     </div>
     <form class="reveal" id="bookForm">
