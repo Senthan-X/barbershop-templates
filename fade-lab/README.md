@@ -1,40 +1,35 @@
-# Fade Lab — Modern Urban Fade & Hair-Art Template
+# Modern Gentleman — Contemporary Barbering Template
 
-A single-file, dependency-free landing page for a modern fade/hair-art barbershop. Version 2 of 6 in the **Senthan & Co** barbershop template set — bold, high-contrast, streetwear-adjacent, built around the idea that "your head is the canvas."
+A self-contained premium barbershop landing page and Version 2 of the **Senthan & Co** barbershop collection. Modern Gentleman pairs restrained editorial typography, warm brass detailing, and carefully selected grooming imagery with a conversion-focused booking journey.
 
-![theme](https://img.shields.io/badge/theme-dark%2Flight-CBFF3D) ![languages](https://img.shields.io/badge/languages-7-CBFF3D) ![dependencies](https://img.shields.io/badge/dependencies-0-0B0B0C)
+## Experience
 
-## Live sections
+- Full-background responsive hero with independently tuned desktop and mobile crops
+- Four service rituals with purposeful animated icon badges
+- Curated journal gallery sourced from the full 63-image barbershop catalog
+- Trust metrics, barber profiles, testimonials, and booking/contact sections
+- System-aware light/dark theme with a remembered visitor override
+- Seven embedded languages: English, Spanish, French, German, Portuguese, Arabic with RTL, and Chinese
+- IntersectionObserver reveals, reduced-motion support, and animated Back-to-Top Button
+- Defensive localStorage and browser-language detection
 
-- Sticky nav, language switcher, dark/light toggle
-- Hero with bold Anton display type and a lightning-fade photo
-- Pure-CSS zigzag dividers (no image/svg file) echoing the hair-tattoo line art in the gallery
-- "The Menu" — services shown as rotated grade badges (barber guard numbers as a design motif)
-- "The Wall" — a hover-desaturated photo gallery of fade and design work
-- "By the Numbers" — stat counters
-- "The Artists" — team cards
-- "Word on the Street" — testimonials
-- Booking section with front-end form + WhatsApp-ready contact block
+## Architecture
 
-## Tech
+One zero-dependency HTML file with Base64-embedded WebP imagery, CSS custom properties, semantic markup, inline SVG icons, and `window.I18N` translations. No external fonts, scripts, or CDN requests are required.
 
-Same architecture as the rest of the set: single HTML file, zero build step, base64-embedded WebP photography, CSS custom property theming, 7-language i18n (`data-i18n` + JS dictionary, Arabic RTL included), `IntersectionObserver` scroll reveals, defensive `localStorage` wrapper.
+## Customization
 
-## Customize
-
-| What | Where |
+| Item | Location |
 |---|---|
-| Brand name / tagline | Search `FADE` / `LAB` and "Your head is the canvas" |
-| Colors | `:root[data-theme="dark"]` / `:root[data-theme="light"]` blocks — `--lime` and `--coral` are the signature accents |
-| Fonts | Font-family declarations in the main `<style>` block; the templates use dependency-free system fallbacks |
-| Copy & translations | `translations` object near the bottom `<script>` |
-| Images | Swap the base64 `data:image/webp;base64,...` strings on the relevant `<img>` tags |
-| Grade badges | `.grade-badge` elements in the Menu section — edit the rotated sticker text |
-| Booking form | Wire `#bookForm` to Formspree, EmailJS, or your own backend |
+| Brand and content | Semantic HTML plus the `I18N` object |
+| Theme palette | `:root[data-theme="dark"]` and `:root[data-theme="light"]` |
+| Photography | Embedded `data:image/webp;base64,...` sources |
+| Booking handler | `#bookForm` submit listener |
+| Contact number | Booking contact link |
 
 ## Credits
 
-Built by **Senthan & Co**. 📞 +256 754 069 314
+Crafted by **Senthan & Co**. 📞 +256 754 069 314
 
 ## License
 
