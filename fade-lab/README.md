@@ -6,7 +6,9 @@ A self-contained premium barbershop landing page and Version 2 of the **Senthan 
 
 - Full-background responsive hero with independently tuned desktop and mobile crops
 - Four service rituals with purposeful animated icon badges
-- Curated journal gallery sourced from the full 63-image barbershop catalog
+- Heavy 36-style Journal sourced from the full 63-image barbershop catalog
+- Six category filters, 12-style featured view, and progressive catalog expansion
+- “Choose this style” actions that carry a selection into the booking form
 - Trust metrics, barber profiles, testimonials, and booking/contact sections
 - System-aware light/dark theme with a remembered visitor override
 - Seven embedded languages: English, Spanish, French, German, Portuguese, Arabic with RTL, and Chinese
@@ -29,7 +31,7 @@ One zero-dependency HTML file with Base64-embedded WebP imagery, CSS custom prop
 
 ## Credits
 
-Crafted by **Senthan & Co**. 📞 +256 754 069 314
+Crafted by **Senthan & Co**. Contact details shown in this template are fictional demo placeholders.
 
 ## License
 
