@@ -8,7 +8,7 @@ Six distinct, self-contained HTML templates for barbershops, grooming lounges, b
 |---|---|---|
 | Heritage Barber Co. | [`heritage-barber-co`](./heritage-barber-co/) | Classic vintage barbershop |
 | Fade Lab | [`fade-lab`](./fade-lab/) | Modern urban fades and hair art |
-| Noir Blade | [`noir-blade`](./noir-blade/) | Luxury appointment-only grooming |
+| Urban Cut Studio | [`noir-blade`](./noir-blade/) | Street-forward cuts, braids and texture |
 | Crown Braids | [`crown-braids`](./crown-braids/) | Men’s braid specialist |
 | Hue & Curl Studio | [`hue-curl-studio`](./hue-curl-studio/) | Natural hair and color studio |
 | The Braid Bar | [`braid-bar`](./braid-bar/) | Community braiding salon |
