@@ -33,7 +33,7 @@ A single-file, dependency-free landing page for a classic, old-world barbershop.
 | Fonts | Font-family declarations in the main `<style>` block; the template uses dependency-free system fallbacks |
 | Copy & translations | `translations` object near the bottom `<script>` — one object per language code |
 | Images | Replace the base64 `data:image/webp;base64,...` strings on the relevant `<img>` tags |
-| Contact details | `.book-contacts` block (phone) |
+| Contact details | `.book-contacts` block (fictional Uganda address, phone, and email) |
 | Booking form | Wire `#bookForm`'s submit handler to Formspree, EmailJS, or your own backend |
 
 ## Adding a language
@@ -50,7 +50,8 @@ Modern evergreen browsers (Chrome, Firefox, Safari, Edge). Uses `IntersectionObs
 ## Credits
 
 Built by **Senthan & Co** — HTML/web templates for Codester & ThemeForest.
-📞 +256 754 069 314
+
+All business contact and location details shown in this template are fictional demo data.
 
 ## License
 
