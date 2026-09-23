@@ -1,6 +1,6 @@
 # Senthan & Co — Barbershop & Salon Templates
 
-Eight distinct, self-contained HTML templates for barbershops, grooming lounges, braid studios, and hair salons.
+Nine distinct, self-contained HTML templates for barbershops, grooming lounges, braid studios, and hair salons, including the complete seven-version production series and two legacy themes.
 
 ## Templates
 
@@ -13,6 +13,7 @@ Eight distinct, self-contained HTML templates for barbershops, grooming lounges,
 | Hue & Curl Studio | [`hue-curl-studio`](./hue-curl-studio/) | Natural hair and color studio |
 | The Braid Bar | [`braid-bar`](./braid-bar/) | Community braiding salon |
 | Corner Chair | [`neighborhood-barber`](./neighborhood-barber/) | Friendly neighborhood barbershop |
+| Barber Collective | [`barber-collective`](./barber-collective/) | Inclusive collaborative studio with interactive style filtering |
 | LINEWORK Studio | [`linework-studio`](./linework-studio/) | Precision cut-and-braid atelier |
 
 Open the [collection index](./index.html) to browse live previews rendered from the actual templates.
@@ -23,7 +24,7 @@ Open the [collection index](./index.html) to browse live previews rendered from 
 - Base64-embedded WebP photography
 - Responsive light and dark themes that follow the visitor’s system setting by default
 - Manual theme override saved defensively in `localStorage`
-- Seven embedded languages per template, including English and full Arabic RTL
+- Eight embedded languages: English, Spanish, French, German, Portuguese, Arabic, Chinese and Swahili
 - Full right-to-left layout for Arabic
 - IntersectionObserver scroll reveals with reduced-motion support
 - Responsive navigation, booking form demo, skip link, and Back-to-Top Button
