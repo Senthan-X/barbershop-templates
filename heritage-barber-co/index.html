@@ -214,6 +214,11 @@
   .footer-inner p{ margin:0; color:var(--ink-dim); font-size:.85rem; }
   .footer-credit{ font-family:'Space Mono',monospace; font-size:.75rem; color:var(--ink-dim); }
   .footer-credit a{ color:var(--brass); text-decoration:none; }
+
+  .back-top{position:fixed;right:20px;bottom:20px;z-index:80;width:48px;height:48px;border:0;border-radius:50%;display:grid;place-items:center;background:var(--brass);color:#fff;font-size:1.35rem;line-height:1;box-shadow:0 8px 22px rgba(0,0,0,.22);opacity:0;visibility:hidden;transform:translateY(8px);transition:opacity .22s ease,transform .22s ease,visibility .22s ease;cursor:pointer}
+  .back-top.is-visible{opacity:1;visibility:visible;transform:translateY(0)}
+  .back-top:focus-visible{outline:3px solid currentColor;outline-offset:3px}
+  @media(prefers-reduced-motion:reduce){.back-top{transition:none}}
 </style>
 </head>
 <body>
@@ -237,7 +242,7 @@
         <option value="es">ES</option>
         <option value="fr">FR</option>
         <option value="de">DE</option>
-        <option value="pt">PT</option>
+        <option value="pt">PT</option><option value="zh">ZH</option>
         <option value="sw">SW</option>
         <option value="ar">AR</option>
       </select>
@@ -702,6 +707,8 @@ var translations = {
     book_eyebrow:"احجز كرسيك", book_title:"احجز الآن", book_intro:"الزيارات المفاجئة مرحب بها، لكن الكرسي يكون لك إذا اتصلت مسبقًا.",
     form_name:"اسمك", form_phone:"رقم الهاتف", form_service:"اختر خدمة", form_submit:"طلب موعد",
     footer_tagline:"هيريتيج باربر — نفس الزاوية منذ ١٩٦٢.", footer_rights:"جميع الحقوق محفوظة."
+  },
+  zh:{ nav_home:"主页", nav_craft:"匠心技艺", nav_heritage:"传承", nav_gallery:"作品廊", nav_barbers:"理发师", nav_book:"立即预约", hero_eyebrow:"创立于 1962 年", hero_headline:"有些事，不该匆忙。", hero_sub:"一把直剃刀、一双稳健的手，还有父传子的六十年手艺。Heritage Barber Co. 延续着经得起时间的传统。", hero_cta_primary:"预约您的座椅", hero_cta_secondary:"了解匠心", craft_eyebrow:"服务菜单", craft_title:"匠心技艺", craft_intro:"绝不走捷径。每项服务都沿用 1962 年的节奏——从容细致，恰到好处。", service_1_name:"招牌热毛巾剃须", service_1_time:"35 分钟", service_1_desc:"直剃刀配热毛巾，清爽效果可持续一周。", service_2_name:"传承渐层剪", service_2_time:"45 分钟", service_2_desc:"手工融合的精准推剪，每一款都独一无二。", service_3_name:"胡须塑形与蒸护", service_3_time:"30 分钟", service_3_desc:"修整、蒸护并上油，让线条持久利落。", service_4_name:"全套经典护理", service_4_time:"75 分钟", service_4_desc:"剪发、剃须与蒸护——一整个下午，悉心完成。", heritage_eyebrow:"始于 1962", heritage_title:"四代人的剃刀手艺", heritage_intro:"同一个街角，同一个家庭，六十年手艺一代代传承，每次从一张理发椅开始。", year_1962_label:"1962 年", year_1962_text:"在坎帕拉路旁开出第一张理发椅，没有招牌，只靠口碑相传。", year_1978_label:"1978 年", year_1978_text:"添置第二张理发椅，创始人迎来第一位学徒。", year_1995_label:"1995 年", year_1995_text:"店铺一度濒临关门，创始人的儿子在当月重新开业。", year_2019_label:"2019 年", year_2019_text:"第三代接过剃刀，守住同一个街角。", year_today_label:"今日", year_today_text:"还是那张椅子，还是那个街角。新一双手，老一门手艺。", gallery_eyebrow:"理发工具", gallery_title:"手艺的模样", barbers_eyebrow:"理发椅上的匠人", barbers_title:"认识我们的理发师", barber_1_role:"资深理发师 · 22 年", barber_2_role:"渐层剪发专家", barber_3_role:"胡须造型师", testimonials_eyebrow:"顾客口碑", testimonials_title:"他们为何常回来", testimonial_1_text:"“我父亲坐过这张椅子。现在我带儿子来。没有什么比这更难得。”", testimonial_1_author:"— David O.，自 2011 年起的常客", testimonial_2_text:"“这是唯一一次剃须效果真正维持了一整周。”", testimonial_2_author:"— Michael T.", testimonial_3_text:"“这里不是城里最快的剪发店，却是最好的。”", testimonial_3_author:"— Farouk A.", book_eyebrow:"预留您的座椅", book_title:"立即预约", book_intro:"欢迎直接到店；提前来电，还可为您留好座位。", form_name:"您的姓名", form_phone:"电话号码", form_service:"选择服务", form_submit:"提交预约请求", footer_tagline:"Heritage Barber Co. — 六十年来，始终守在同一个街角。", footer_rights:"版权所有。", back_to_top:"返回顶部", barber_1_name:"Otieno M.", barber_2_name:"Junior K.", barber_3_name:"Big Sam"
   }
 };
 
@@ -715,7 +722,8 @@ function applyLanguage(lang){
   document.documentElement.setAttribute('dir', lang === 'ar' ? 'rtl' : 'ltr');
   storage.set('hbc_lang', lang);
 }
-var savedLang = storage.get('hbc_lang') || 'en';
+var browserLang = (navigator.language || 'en').toLowerCase().split('-')[0];
+var savedLang = storage.get('hbc_lang') || (translations[browserLang] ? browserLang : 'en');
 document.getElementById('langSelect').value = savedLang;
 applyLanguage(savedLang);
 document.getElementById('langSelect').addEventListener('change', function(e){ applyLanguage(e.target.value); });
@@ -729,5 +737,7 @@ document.getElementById('bookForm').addEventListener('submit', function(e){
   setTimeout(function(){ btn.textContent = original; e.target.reset(); }, 1800);
 });
 </script>
+<button class="back-top" id="backToTop" type="button" aria-label="Back to top"><span aria-hidden="true">↑</span></button>
+<script>(function(){var b=document.getElementById('backToTop'),l=document.getElementById('langSelect'),labels={"en":"Back to top","es":"Volver arriba","fr":"Retour en haut","de":"Nach oben","pt":"Voltar ao topo","ar":"العودة إلى الأعلى","zh":"返回顶部","sw":"Rudi juu"};function update(){var code=(document.documentElement.lang||'en').slice(0,2);b.setAttribute('aria-label',labels[code]||labels.en);b.classList.toggle('is-visible',window.scrollY>480)}window.addEventListener('scroll',update,{passive:true});l.addEventListener('change',update);b.addEventListener('click',function(){window.scrollTo({top:0,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})});update()})();</script>
 </body>
 </html>

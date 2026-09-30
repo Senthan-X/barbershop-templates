@@ -10,7 +10,7 @@ Barbershop collection Version 5 by Senthan & Co.
 - Three additional ZIP-sourced hero and atmosphere images
 - Six catalog filters with style-to-booking linkage
 - System-aware light and dark themes with remembered override
-- Seven languages: EN, ES, FR, DE, PT, AR (RTL), and ZH
+- Eight languages: EN, ES, FR, DE, PT, AR (RTL), ZH, and SW
 - Interactive Chair Finder
 - Full-background responsive hero and animated service icons
 - Responsive navigation, scroll reveals, reduced-motion support, and Back-to-Top Button

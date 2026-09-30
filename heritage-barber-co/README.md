@@ -1,8 +1,8 @@
 # Heritage Barber Co. — Vintage Barbershop Template
 
-A single-file, dependency-free landing page for a classic, old-world barbershop. Part of the **Senthan & Co** barbershop template set — this is Version 1 of 6, built around a "family trade since 1962" identity: leather chairs, straight razors, ledger typography, and a hand-coded CSS barber pole.
+A single-file, dependency-free landing page for a classic, old-world barbershop. Part of the **Senthan & Co** barbershop template set — this is Version 1 of the 7-theme production collection, built around a "family trade since 1962" identity: leather chairs, straight razors, ledger typography, and a hand-coded CSS barber pole.
 
-![theme](https://img.shields.io/badge/theme-dark%2Flight-8A6B3E) ![languages](https://img.shields.io/badge/languages-7-C7A06C) ![dependencies](https://img.shields.io/badge/dependencies-0-2F4B5E)
+![theme](https://img.shields.io/badge/theme-dark%2Flight-8A6B3E) ![languages](https://img.shields.io/badge/languages-8-C7A06C) ![dependencies](https://img.shields.io/badge/dependencies-0-2F4B5E)
 
 ## Live sections
 
@@ -20,8 +20,9 @@ A single-file, dependency-free landing page for a classic, old-world barbershop.
 - Pure HTML/CSS/JS, single file, **zero build step**
 - All photography embedded as base64 WebP — no `/assets` folder to lose on upload
 - CSS custom properties power the dark/light theme (`data-theme` attribute)
-- 7-language i18n (English, Spanish, French, German, Portuguese, Swahili, Arabic) via `data-i18n` attributes + a JS dictionary — Arabic ships with full RTL mirroring
+- 8-language i18n (English, Spanish, French, German, Portuguese, Arabic, Chinese, Swahili) via `data-i18n` attributes + a JS dictionary — Arabic ships with full RTL mirroring
 - `IntersectionObserver` scroll reveals, respects `prefers-reduced-motion`
+- First visit follows `navigator.language`; the visitor can switch languages and the choice is remembered.
 - Defensive `localStorage` wrapper (falls back to in-memory state if storage is blocked, e.g. in sandboxed previews)
 
 ## Customize

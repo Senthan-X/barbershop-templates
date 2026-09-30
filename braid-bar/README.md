@@ -1,8 +1,8 @@
 # The Braid Bar — Community Braiding Salon Template
 
-A single-file, dependency-free landing page for a joyful, walk-in-friendly braiding salon. Version 6 of 6 in the **Senthan & Co** barbershop/salon template set — colorful, social, "bar" energy rather than clinical service listing.
+A single-file, dependency-free landing page for a joyful, walk-in-friendly braiding salon. Archived legacy theme in the **Senthan & Co** barbershop/salon collection — colorful, social, "bar" energy rather than clinical service listing.
 
-![theme](https://img.shields.io/badge/theme-light%2Fdark-F2622E) ![languages](https://img.shields.io/badge/languages-7-F2622E) ![dependencies](https://img.shields.io/badge/dependencies-0-FFFFFF)
+![theme](https://img.shields.io/badge/theme-light%2Fdark-F2622E) ![languages](https://img.shields.io/badge/languages-8-F2622E) ![dependencies](https://img.shields.io/badge/dependencies-0-FFFFFF)
 
 ## Live sections
 
@@ -17,7 +17,7 @@ A single-file, dependency-free landing page for a joyful, walk-in-friendly braid
 
 ## Tech
 
-Single HTML file, zero build step, base64-embedded WebP photography, CSS custom property theming, 7-language i18n (`data-i18n` + JS dictionary, full Arabic RTL), `IntersectionObserver` scroll reveals, defensive `localStorage` wrapper.
+Single HTML file, zero build step, base64-embedded WebP photography, CSS custom property theming, 8-language i18n (`data-i18n` + JS dictionary, full Arabic RTL), first-visit browser-language detection, `IntersectionObserver` scroll reveals, defensive `localStorage` wrapper.
 
 ## Customize
 
@@ -33,7 +33,9 @@ Single HTML file, zero build step, base64-embedded WebP photography, CSS custom 
 
 ## Credits
 
-Built by **Senthan & Co**. 📞 +256 754 069 314
+Built by **Senthan & Co**. Demo phone: +256 700 000 000
+
+All contact and location details in the template are fictional demo data.
 
 ## License
 
