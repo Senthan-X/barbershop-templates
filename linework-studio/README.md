@@ -16,7 +16,7 @@ A precision cut-and-braid atelier with a technical editorial identity, built for
 - One self-contained HTML file
 - Base64-embedded WebP imagery
 - System-aware light and dark themes with saved override
-- Seven languages: English, Spanish, French, German, Portuguese, Arabic and Chinese
+- Eight languages: English, Spanish, French, German, Portuguese, Arabic, Chinese and Swahili
 - Full Arabic RTL layout
 - Responsive navigation, imagery and forms
 - IntersectionObserver scroll reveals and reduced-motion support

@@ -1,6 +1,6 @@
 # Senthan & Co — Barbershop & Salon Templates
 
-Nine distinct, self-contained HTML templates for barbershops, grooming lounges, braid studios, and hair salons, including the complete seven-version production series and two legacy themes.
+Nine distinct, self-contained HTML templates for barbershops, grooming lounges, braid studios, and hair salons: the complete V1–V7 production series plus two live legacy themes.
 
 ## Templates
 
@@ -27,9 +27,10 @@ Open the [collection index](./index.html) to browse live previews rendered from 
 - Eight embedded languages: English, Spanish, French, German, Portuguese, Arabic, Chinese and Swahili
 - Full right-to-left layout for Arabic
 - IntersectionObserver scroll reveals with reduced-motion support
+- Theme-specific, keyboard-accessible closer-look previews for gallery and lookbook imagery
 - Responsive navigation, booking form demo, skip link, and Back-to-Top Button
 
-The booking forms are front-end demonstrations. Connect them to the buyer’s preferred form handler before production use.
+The booking forms are front-end demonstrations and do not require an account. Connect them to the buyer’s preferred form handler before production use. All displayed contact details are fictional East African demo data.
 
 ## Deployment
 
