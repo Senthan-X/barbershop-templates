@@ -1,0 +1,2180 @@
+{
+  "reviewed": "2026-11-20",
+  "audit": {
+    "original_archive": "barbershop.zip",
+    "photographs": 63,
+    "notes": "The supplied archive contained 63 hash-named JPEGs, no licensing or author records, and no EXIF tags. Reuse required an independently verified source. The eight Heritage assets were already documented in the approved marketplace preview. For other placements, licensed stock was selected first. Specific designs without an accurate match in the reviewed stock were generated for the catalogue."
+  },
+  "sources": {
+    "studio-D3": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Wave pattern cornrows",
+      "created": "2026-11-20"
+    },
+    "studio-F6": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Red curl burst fade",
+      "created": "2026-11-20"
+    },
+    "pexels-19743920": {
+      "type": "licensed photograph",
+      "creator": "Boko Shots",
+      "title": "Smiling Woman with Long, Braided Hair",
+      "source": "https://www.pexels.com/photo/smiling-woman-with-long-braided-hair-19743920/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-B6": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Chevron stitch rows",
+      "created": "2026-11-20"
+    },
+    "pexels-34191305": {
+      "type": "licensed photograph",
+      "creator": "Young  Ish",
+      "title": "Close-Up of Man's Braided Hairstyle Showing Detail",
+      "source": "https://www.pexels.com/photo/close-up-of-man-s-braided-hairstyle-showing-detail-34191305/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-11728787": {
+      "type": "licensed photograph",
+      "creator": "Bello Olamide",
+      "title": "A Woman with a Cornrow Wearing a Black Shirt",
+      "source": "https://www.pexels.com/photo/a-woman-with-a-cornrow-wearing-a-black-shirt-11728787/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-33664383": {
+      "type": "licensed photograph",
+      "creator": "Charles Awelewa",
+      "title": "Top View of Stylish Braided Hairstyle on Woman",
+      "source": "https://www.pexels.com/photo/top-view-of-stylish-braided-hairstyle-on-woman-33664383/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-D2": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "S-curve cornrows",
+      "created": "2026-11-20"
+    },
+    "studio-F8": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Temple fade and waves",
+      "created": "2026-11-20"
+    },
+    "studio-B5": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Arrow-part cornrows",
+      "created": "2026-11-20"
+    },
+    "pexels-34443876": {
+      "type": "licensed photograph",
+      "creator": "Laura Oliveira",
+      "title": "Man with Braided Hair and Beads from Behind",
+      "source": "https://www.pexels.com/photo/man-with-braided-hair-and-beads-from-behind-34443876/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-34384315": {
+      "type": "licensed photograph",
+      "creator": "Jonathan Goncalves",
+      "title": "Stunning Black and White Hair Braiding Portrait",
+      "source": "https://www.pexels.com/photo/stunning-black-and-white-hair-braiding-portrait-34384315/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-B4": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Leaf pattern cornrows",
+      "created": "2026-11-20"
+    },
+    "studio-F5": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Blonde sponge taper",
+      "created": "2026-11-20"
+    },
+    "studio-F4": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Blonde-tip frohawk fade",
+      "created": "2026-11-20"
+    },
+    "studio-D4": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Starburst rows",
+      "created": "2026-11-20"
+    },
+    "studio-B3": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Looped crown cornrows",
+      "created": "2026-11-20"
+    },
+    "pexels-34443854": {
+      "type": "licensed photograph",
+      "creator": "Laura Oliveira",
+      "title": "Tattooed Man with Braided Hair in São Paulo",
+      "source": "https://www.pexels.com/photo/tattooed-man-with-braided-hair-in-sao-paulo-34443854/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-D1": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Spiral stitch cornrows",
+      "created": "2026-11-20"
+    },
+    "studio-F3": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Lightning design fade",
+      "created": "2026-11-20"
+    },
+    "pexels-12706272": {
+      "type": "licensed photograph",
+      "creator": "iam luisao",
+      "title": "Man at Barber Shop",
+      "source": "https://www.pexels.com/photo/man-at-barber-shop-12706272/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-B2": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Maze pattern cornrows",
+      "created": "2026-11-20"
+    },
+    "pexels-19338626": {
+      "type": "licensed photograph",
+      "creator": "Ronê Ferreira",
+      "title": "Man in Sunglasses and with Hands Clasped",
+      "source": "https://www.pexels.com/photo/man-in-sunglasses-and-with-hands-clasped-19338626/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7447127": {
+      "type": "licensed photograph",
+      "creator": "Gustavo Fring",
+      "title": "Man Ready For Haircut",
+      "source": "https://www.pexels.com/photo/man-ready-for-haircut-7447127/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-6163386": {
+      "type": "licensed photograph",
+      "creator": "Styves Exantus",
+      "title": "A Braided Woman Wearing Gold Loop Earring Looking Afar",
+      "source": "https://www.pexels.com/photo/a-braided-woman-wearing-gold-loop-earring-looking-afar-6163386/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-32426283": {
+      "type": "licensed photograph",
+      "creator": "_brunovisual",
+      "title": "Close-up Portrait of Woman with Braided Hair",
+      "source": "https://www.pexels.com/photo/close-up-portrait-of-woman-with-braided-hair-32426283/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-F2": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "360 waves with low fade",
+      "created": "2026-11-20"
+    },
+    "pexels-7926723": {
+      "type": "licensed photograph",
+      "creator": "Nicola Barts",
+      "title": "Bald Man with Beard in Close Up Photography",
+      "source": "https://www.pexels.com/photo/bald-man-with-beard-in-close-up-photography-7926723/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-B1": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Crown spiral cornrows",
+      "created": "2026-11-20"
+    },
+    "pexels-10810251": {
+      "type": "licensed photograph",
+      "creator": "Natalia García Prieto",
+      "title": "Close Up Photo of a Woman with braided Hair",
+      "source": "https://www.pexels.com/photo/close-up-photo-of-a-woman-with-braided-hair-10810251/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-4671331": {
+      "type": "licensed photograph",
+      "creator": "Gift Habeshaw 🇪🇹",
+      "title": "Person's Head with Braided Hair style",
+      "source": "https://www.pexels.com/photo/person-s-head-with-braided-hair-style-4671331/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-F1": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Silver curl crop and beard",
+      "created": "2026-11-20"
+    },
+    "studio-F7": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Platinum coily crop",
+      "created": "2026-11-20"
+    },
+    "pexels-16778662": {
+      "type": "licensed photograph",
+      "creator": "Estevam Foto",
+      "title": "Man with Braided Hair",
+      "source": "https://www.pexels.com/photo/man-with-braided-hair-16778662/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-10825829": {
+      "type": "licensed photograph",
+      "creator": "Leinads Neverdie",
+      "title": "Person with Braided Hair Wearing Blue Jersey",
+      "source": "https://www.pexels.com/photo/person-with-braided-hair-wearing-blue-jersey-10825829/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7447147": {
+      "type": "licensed photograph",
+      "creator": "Gustavo Fring",
+      "title": "Photo of a Man Getting a Haircut",
+      "source": "https://www.pexels.com/photo/photo-of-a-man-getting-a-haircut-7447147/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-16372624": {
+      "type": "licensed photograph",
+      "creator": "Elina Volkova",
+      "title": "Leather Barber Armchair, Comb, and Razor",
+      "source": "https://www.pexels.com/photo/leather-barber-armchair-comb-and-razor-16372624/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7518739": {
+      "type": "licensed photograph",
+      "creator": "Pavel Danilyuk",
+      "title": "A Barber Trimming a Beard",
+      "source": "https://www.pexels.com/photo/a-barber-trimming-a-beard-7518739/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-13138476": {
+      "type": "licensed photograph",
+      "creator": "Marvin  Sacdalan",
+      "title": "Brown Leather Barbers Chairs in a Barber Shop",
+      "source": "https://www.pexels.com/photo/brown-leather-barbers-chairs-in-a-barber-shop-13138476/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7781848": {
+      "type": "licensed photograph",
+      "creator": "Leonardo Hidalgo",
+      "title": "Profile of a Man at a Barber",
+      "source": "https://www.pexels.com/photo/profile-of-a-man-at-a-barber-7781848/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-B9": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Indigo cornrows",
+      "created": "2026-11-20"
+    },
+    "pexels-39559325": {
+      "type": "licensed photograph",
+      "creator": "Brian Silva",
+      "title": "Close-Up Portrait of Man with Stylish Haircut",
+      "source": "https://www.pexels.com/photo/close-up-portrait-of-man-with-stylish-haircut-39559325/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-B8": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Copper cornrows",
+      "created": "2026-11-20"
+    },
+    "pexels-13450758": {
+      "type": "licensed photograph",
+      "creator": "RAFAEL  QUATY",
+      "title": "A Person Shaving s Person's Head",
+      "source": "https://www.pexels.com/photo/a-person-shaving-s-person-s-head-13450758/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-19743922": {
+      "type": "licensed photograph",
+      "creator": "Boko Shots",
+      "title": "Studio Shot of a Young Woman with Long Braided Hair",
+      "source": "https://www.pexels.com/photo/studio-shot-of-a-young-woman-with-long-braided-hair-19743922/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-F9": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Wave-line design fade",
+      "created": "2026-11-20"
+    },
+    "pexels-3891347": {
+      "type": "licensed photograph",
+      "creator": "Aviz Media",
+      "title": "Monochrome Photo Of Man",
+      "source": "https://www.pexels.com/photo/monochrome-photo-of-man-3891347/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-10223860": {
+      "type": "licensed photograph",
+      "creator": "Ron Lach",
+      "title": "A Side View of a Profile of a Senior Adult Male",
+      "source": "https://www.pexels.com/photo/a-side-view-of-a-profile-of-a-senior-adult-male-10223860/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7447133": {
+      "type": "licensed photograph",
+      "creator": "Gustavo Fring",
+      "title": "Man Getting a Haircut",
+      "source": "https://www.pexels.com/photo/man-getting-a-haircut-7447133/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-9703068": {
+      "type": "licensed photograph",
+      "creator": "Jennifer Latham",
+      "title": "Red Armchair at Hairdresser",
+      "source": "https://www.pexels.com/photo/red-armchair-at-hairdresser-9703068/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-41122205": {
+      "type": "licensed photograph",
+      "creator": "Danilo Gomes",
+      "title": "Close-up of Professional Beard Trimming",
+      "source": "https://www.pexels.com/photo/close-up-of-professional-beard-trimming-41122205/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7781852": {
+      "type": "licensed photograph",
+      "creator": "Leonardo Hidalgo",
+      "title": "Man in Black Barber Cape",
+      "source": "https://www.pexels.com/photo/man-in-black-barber-cape-7781852/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7447145": {
+      "type": "licensed photograph",
+      "creator": "Gustavo Fring",
+      "title": "Barber Trimming Beard",
+      "source": "https://www.pexels.com/photo/barber-trimming-beard-7447145/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-30753563": {
+      "type": "licensed photograph",
+      "creator": "Hans Abdallah",
+      "title": "Contemplative Portrait of a Young Man with Afro Hair",
+      "source": "https://www.pexels.com/photo/contemplative-portrait-of-a-young-man-with-afro-hair-30753563/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7447146": {
+      "type": "licensed photograph",
+      "creator": "Gustavo Fring",
+      "title": "Man Getting a Haircut",
+      "source": "https://www.pexels.com/photo/man-getting-a-haircut-7447146/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7518715": {
+      "type": "licensed photograph",
+      "creator": "Pavel Danilyuk",
+      "title": "A Stylish Barber Looking out of the Window of a Barber Shop",
+      "source": "https://www.pexels.com/photo/a-stylish-barber-looking-out-of-the-window-of-a-barber-shop-7518715/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-19753275": {
+      "type": "licensed photograph",
+      "creator": "Vitaliy Haiduk",
+      "title": "Man with Curly Hair and a Beard",
+      "source": "https://www.pexels.com/photo/man-with-curly-hair-and-a-beard-19753275/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-11482130": {
+      "type": "licensed photograph",
+      "creator": "Gabriel Frank",
+      "title": "Close-Up Photo of a Person's Braided Hair",
+      "source": "https://www.pexels.com/photo/close-up-photo-of-a-person-s-braided-hair-11482130/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-23531768": {
+      "type": "licensed photograph",
+      "creator": "Gaspar Zaldo",
+      "title": "Portrait of a Man",
+      "source": "https://www.pexels.com/photo/portrait-of-a-man-23531768/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-19433855": {
+      "type": "licensed photograph",
+      "creator": "ahmed akeri",
+      "title": "Portrait of a Young Man with Dark, Curly Hair Standing Outside",
+      "source": "https://www.pexels.com/photo/portrait-of-a-young-man-with-dark-curly-hair-standing-outside-19433855/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-39559262": {
+      "type": "licensed photograph",
+      "creator": "Brian Silva",
+      "title": "Man Getting Modern Haircut at Barbershop",
+      "source": "https://www.pexels.com/photo/man-getting-modern-haircut-at-barbershop-39559262/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-4307710": {
+      "type": "licensed photograph",
+      "creator": "Ketut Subiyanto",
+      "title": "Crop ethnic man with glorious mustache",
+      "source": "https://www.pexels.com/photo/crop-ethnic-man-with-glorious-mustache-4307710/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-D7": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Sponge coils",
+      "created": "2026-11-20"
+    },
+    "pexels-39559305": {
+      "type": "licensed photograph",
+      "creator": "Brian Silva",
+      "title": "Close-up of Haircut in a Barber Shop Setting",
+      "source": "https://www.pexels.com/photo/close-up-of-haircut-in-a-barber-shop-setting-39559305/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-3998429": {
+      "type": "licensed photograph",
+      "creator": "cottonbro studio",
+      "title": "Man in White and Black Stripe Shirt Holding Black Pen",
+      "source": "https://www.pexels.com/photo/man-in-white-and-black-stripe-shirt-holding-black-pen-3998429/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7518755": {
+      "type": "licensed photograph",
+      "creator": "Pavel Danilyuk",
+      "title": "A Hairdresser Styling Hair of a Man",
+      "source": "https://www.pexels.com/photo/a-hairdresser-styling-hair-of-a-man-7518755/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7451210": {
+      "type": "licensed photograph",
+      "creator": "cottonbro studio",
+      "title": "A Bearded Man Looking with a Serious Face",
+      "source": "https://www.pexels.com/photo/a-bearded-man-looking-with-a-serious-face-7451210/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7589418": {
+      "type": "licensed photograph",
+      "creator": "Joice Rivas",
+      "title": "Close-Up Photo of a Man with Happy Face",
+      "source": "https://www.pexels.com/photo/close-up-photo-of-a-man-with-happy-face-7589418/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-17589638": {
+      "type": "licensed photograph",
+      "creator": "Wolrider YURTSEVEN",
+      "title": "Man with a Goatee Beard",
+      "source": "https://www.pexels.com/photo/man-with-a-goatee-beard-17589638/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-11515382": {
+      "type": "licensed photograph",
+      "creator": "kehinde solomon o ogunsanya",
+      "title": "Portrait of Woman in Long Box Braids on Orange Background",
+      "source": "https://www.pexels.com/photo/portrait-of-woman-in-long-box-braids-on-orange-background-11515382/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-D9": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Ivy League",
+      "created": "2026-11-20"
+    },
+    "studio-D8": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Twist-out",
+      "created": "2026-11-20"
+    },
+    "pexels-17928570": {
+      "type": "licensed photograph",
+      "creator": "Pexels User",
+      "title": "Man with Dyed Hair in Black and White",
+      "source": "https://www.pexels.com/photo/man-with-dyed-hair-in-black-and-white-17928570/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-10003357": {
+      "type": "licensed photograph",
+      "creator": "Jonathan Cooper",
+      "title": "Man at Barber",
+      "source": "https://www.pexels.com/photo/man-at-barber-10003357/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-16098668": {
+      "type": "licensed photograph",
+      "creator": "TONI&GUY PONDICHERRY",
+      "title": "Man Dressed in a Shirt at the Barbershop",
+      "source": "https://www.pexels.com/photo/man-dressed-in-a-shirt-at-the-barbershop-16098668/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-6616681": {
+      "type": "licensed photograph",
+      "creator": "cottonbro studio",
+      "title": "Portrait of a Man Wearing an Eyeglasses",
+      "source": "https://www.pexels.com/photo/portrait-of-a-man-wearing-an-eyeglasses-6616681/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-D6": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Burst fade",
+      "created": "2026-11-20"
+    },
+    "pexels-8422336": {
+      "type": "licensed photograph",
+      "creator": "Pavel Danilyuk",
+      "title": "A Woman with Braided Hairstyle",
+      "source": "https://www.pexels.com/photo/a-woman-with-braided-hairstyle-8422336/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-4850600": {
+      "type": "licensed photograph",
+      "creator": "Sanjay Indiresh",
+      "title": "Black and White Photo of Glamour Man Hairstyle",
+      "source": "https://www.pexels.com/photo/black-and-white-photo-of-glamour-man-hairstyle-4850600/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-8440067": {
+      "type": "licensed photograph",
+      "creator": "Ron Lach",
+      "title": "Man with Curly Hair and Mustache in White Sweater",
+      "source": "https://www.pexels.com/photo/man-with-curly-hair-and-mustache-in-white-sweater-8440067/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-3998412": {
+      "type": "licensed photograph",
+      "creator": "cottonbro studio",
+      "title": "Man Getting a Beard Cut",
+      "source": "https://www.pexels.com/photo/man-getting-a-beard-cut-3998412/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-D5": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Clean Caesar",
+      "created": "2026-11-20"
+    },
+    "pexels-27467943": {
+      "type": "licensed photograph",
+      "creator": "Clark Enzzo",
+      "title": "barber shop",
+      "source": "https://www.pexels.com/photo/barber-shop-27467943/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-20785318": {
+      "type": "licensed photograph",
+      "creator": "František Čaník",
+      "title": "Interior Design of Hairdresser Studio",
+      "source": "https://www.pexels.com/photo/interior-design-of-hairdresser-studio-20785318/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7518730": {
+      "type": "licensed photograph",
+      "creator": "Pavel Danilyuk",
+      "title": "A Barber Shampooing a Client",
+      "source": "https://www.pexels.com/photo/a-barber-shampooing-a-client-7518730/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "studio-B7": {
+      "type": "generated catalogue detail",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "title": "Heart-shaped cornrows",
+      "created": "2026-11-20"
+    },
+    "pexels-7518712": {
+      "type": "licensed photograph",
+      "creator": "Pavel Danilyuk",
+      "title": "Close-up Hair Cutting Tools",
+      "source": "https://www.pexels.com/photo/close-up-hair-cutting-tools-7518712/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7465903": {
+      "type": "licensed photograph",
+      "creator": "Cleber wendder  Nascimento",
+      "title": "A Pair of Scissors and a Comb",
+      "source": "https://www.pexels.com/photo/a-pair-of-scissors-and-a-comb-7465903/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-1319459": {
+      "type": "licensed photograph",
+      "creator": "Nikolaos Dimou",
+      "title": "Gray Hand Tool",
+      "source": "https://www.pexels.com/photo/gray-hand-tool-1319459/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7518689": {
+      "type": "licensed photograph",
+      "creator": "Pavel Danilyuk",
+      "title": "Man Sitting on a Barber Chair",
+      "source": "https://www.pexels.com/photo/man-sitting-on-a-barber-chair-7518689/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-3404207": {
+      "type": "licensed photograph",
+      "creator": "T Munive",
+      "title": "Woman Lying on Bed of Withered Glass",
+      "source": "https://www.pexels.com/photo/woman-lying-on-bed-of-withered-glass-3404207/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-5611480": {
+      "type": "licensed photograph",
+      "creator": "Amusan John",
+      "title": "A Man in White Collared Shirt",
+      "source": "https://www.pexels.com/photo/a-man-in-white-collared-shirt-5611480/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-27792837": {
+      "type": "licensed photograph",
+      "creator": "Mukhtar Shuaib Mukhtar",
+      "title": "A woman with bright red hair and glasses",
+      "source": "https://www.pexels.com/photo/a-woman-with-bright-red-hair-and-glasses-27792837/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-32018123": {
+      "type": "licensed photograph",
+      "creator": "Kab Visuals",
+      "title": "Profile of a Person with Blonde Afro Hairstyle Outdoors",
+      "source": "https://www.pexels.com/photo/profile-of-a-person-with-blonde-afro-hairstyle-outdoors-32018123/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-39201808": {
+      "type": "licensed photograph",
+      "creator": "Matheus Bertelli",
+      "title": "Portrait of a person with natural curly hair",
+      "source": "https://www.pexels.com/photo/portrait-of-a-person-with-natural-curly-hair-39201808/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-10898376": {
+      "type": "licensed photograph",
+      "creator": "Hamilton Sousa",
+      "title": "Faces of Redhead Women",
+      "source": "https://www.pexels.com/photo/faces-of-redhead-women-10898376/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-15477990": {
+      "type": "licensed photograph",
+      "creator": "JEFERSON GOMES",
+      "title": "Portrait of a Young Woman with Dyed Red Hair",
+      "source": "https://www.pexels.com/photo/portrait-of-a-young-woman-with-dyed-red-hair-15477990/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-31065905": {
+      "type": "licensed photograph",
+      "creator": "Mitchel  Onwuchuruba",
+      "title": "Elegant Braided Updo with Hair Accessories",
+      "source": "https://www.pexels.com/photo/elegant-braided-updo-with-hair-accessories-31065905/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-27987128": {
+      "type": "licensed photograph",
+      "creator": "Admar Kamosso Oficial",
+      "title": "mulhere negra",
+      "source": "https://www.pexels.com/photo/mulhere-negra-27987128/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-11482135": {
+      "type": "licensed photograph",
+      "creator": "Gabriel Frank",
+      "title": "A Person Braiding Hair",
+      "source": "https://www.pexels.com/photo/a-person-braiding-hair-11482135/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-8259902": {
+      "type": "licensed photograph",
+      "creator": "Quang Nguyen Vinh",
+      "title": "Women with Their Daughters Sitting on the Stairs",
+      "source": "https://www.pexels.com/photo/women-with-their-daughters-sitting-on-the-stairs-8259902/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-7951589": {
+      "type": "licensed photograph",
+      "creator": "Felicity Tai",
+      "title": "A Woman with Braided Hair",
+      "source": "https://www.pexels.com/photo/a-woman-with-braided-hair-7951589/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-37115256": {
+      "type": "licensed photograph",
+      "creator": "Matilda  Jacob",
+      "title": "Young Women Bonding with Braiding Outdoors",
+      "source": "https://www.pexels.com/photo/young-women-bonding-with-braiding-outdoors-37115256/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "pexels-37115258": {
+      "type": "licensed photograph",
+      "creator": "Matilda  Jacob",
+      "title": "Back View of Two Women with Braided Hairstyles in Abuja",
+      "source": "https://www.pexels.com/photo/back-view-of-two-women-with-braided-hairstyles-in-abuja-37115258/",
+      "license": "Pexels License",
+      "terms": "https://www.pexels.com/legal-pages/license/"
+    },
+    "heritage-1": {
+      "type": "previously generated preview",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "created": "2026-11-16",
+      "source": "Senthan Commerce Phase Two / previews/heritage-and-co/index.html",
+      "title": "A barber chair with striped cape waiting beneath a barber pole"
+    },
+    "heritage-2": {
+      "type": "previously generated preview",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "created": "2026-11-16",
+      "source": "Senthan Commerce Phase Two / previews/heritage-and-co/index.html",
+      "title": "Vintage-style black-and-white scene with two barbershop chairs"
+    },
+    "heritage-3": {
+      "type": "previously generated preview",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "created": "2026-11-16",
+      "source": "Senthan Commerce Phase Two / previews/heritage-and-co/index.html",
+      "title": "Barbering tools laid out on a wooden bench"
+    },
+    "heritage-4": {
+      "type": "previously generated preview",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "created": "2026-11-16",
+      "source": "Senthan Commerce Phase Two / previews/heritage-and-co/index.html",
+      "title": "Scissors, razor and clipper guards on a dark bench"
+    },
+    "heritage-5": {
+      "type": "previously generated preview",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "created": "2026-11-16",
+      "source": "Senthan Commerce Phase Two / previews/heritage-and-co/index.html",
+      "title": "Decorative scissors and comb emblem on a timber wall"
+    },
+    "heritage-6": {
+      "type": "previously generated preview",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "created": "2026-11-16",
+      "source": "Senthan Commerce Phase Two / previews/heritage-and-co/index.html",
+      "title": "A barber applying lather to a client before a shave"
+    },
+    "heritage-7": {
+      "type": "previously generated preview",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "created": "2026-11-16",
+      "source": "Senthan Commerce Phase Two / previews/heritage-and-co/index.html",
+      "title": "Clippers, a comb, and a folded towel on dark wood"
+    },
+    "heritage-8": {
+      "type": "previously generated preview",
+      "creator": "Senthan & Co with OpenAI image generation",
+      "created": "2026-11-16",
+      "source": "Senthan Commerce Phase Two / previews/heritage-and-co/index.html",
+      "title": "Reflection of empty barber chairs in a shop window"
+    }
+  },
+  "templates": {
+    "noir-blade": [
+      {
+        "placement": 1,
+        "source_id": "pexels-16372624",
+        "sha256": "1d46b681bebdb3cb982dfd37f743880d43d29d61c6135a3435f68e103cfc40cd",
+        "prior_sha256": "1d46b681bebdb3cb982dfd37f743880d43d29d61c6135a3435f68e103cfc40cd",
+        "decision": "kept verified original"
+      },
+      {
+        "placement": 2,
+        "source_id": "pexels-7447147",
+        "sha256": "1a9f43f61dbf7e9bd407b9561de96f88e2574152da076018f8d470c1949a3f92",
+        "prior_sha256": "0f2ce9c6b3e67ce9f8e2c3d5e37ddaf573258a6e0cd936db7724932b2644051d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 3,
+        "source_id": "pexels-10825829",
+        "sha256": "d12a1cb4f3ac4e1903cbf7cc003c53406366ef4202c058663ac309b0d309e75b",
+        "prior_sha256": "f52f2a623aa06beed46c401a7b65061f8ebf4c98af3d3677812524c44af78f7c",
+        "decision": "replaced"
+      },
+      {
+        "placement": 4,
+        "source_id": "pexels-16778662",
+        "sha256": "861db566317f8fe70e3beb23cdbdff7f6e9422eb57a644d923b3b16cffc316b0",
+        "prior_sha256": "eedb78856ccda89cacd4cdd05e189ba4546a03355d122dc495509b0c4d37db9d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 5,
+        "source_id": "studio-F7",
+        "sha256": "d0ed12ba679a3ddffe4c361e5927c4380fbafa92698b12438104c53e9ca5190f",
+        "prior_sha256": "5ce08d641460e8aa419d39735edcbd251cc47b062017d59469b7225f1845eb22",
+        "decision": "replaced"
+      },
+      {
+        "placement": 6,
+        "source_id": "studio-F1",
+        "sha256": "0c6249fe779361e14134b872f9e6436ca1f09085b111eb75b097c263f694f60b",
+        "prior_sha256": "463fb154f67b13c81d121d2ef9f8c7709c83ab88ad03665be080560e0561154e",
+        "decision": "replaced"
+      },
+      {
+        "placement": 7,
+        "source_id": "pexels-4671331",
+        "sha256": "431b06f7bd5332cd164b6253678eb85ccbdfadf86a773cfab108604742b29fe4",
+        "prior_sha256": "f92aa7b33e81765344c046d08827ad4d4b27f40b420c9d92ada5972e7911e5bd",
+        "decision": "replaced"
+      },
+      {
+        "placement": 8,
+        "source_id": "pexels-10810251",
+        "sha256": "5ae828d84e225b9a3e2e986a99f5eb2b6242645bcd40f247cbc48f8982827803",
+        "prior_sha256": "eb28d1c604a60bfa3a426a2dfef4ed5993276cd6a1c31727207ff8ab141da77a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 9,
+        "source_id": "studio-B1",
+        "sha256": "4e575dcbc4c3ee63b4d8b4cc4dc1a1b7cfcc29e2ebbf5f2fd824de6a3e17b244",
+        "prior_sha256": "3e401ba689f426adb00b5087cf84755e5a528df91cb3455037ac919604abdba2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 10,
+        "source_id": "pexels-7926723",
+        "sha256": "855cbb91f2a5df7a0d114378819951c7710b56497afe38f1fa92b809c2e5a106",
+        "prior_sha256": "fa71ec89d078988522ab448b32bdea091429795a74f96a08111e7ca41f84b6d9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 11,
+        "source_id": "studio-F2",
+        "sha256": "47354655f51a77279ca1f8474a925197249365b6fdd549553b23ce7d925dfd64",
+        "prior_sha256": "9ad7eb549d3f2d60dd751205d9840cdaba9b373078ee50aeea7aceac94706fc9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 12,
+        "source_id": "pexels-32426283",
+        "sha256": "892afc4bc97ac585a6143e17d45e3137deca8d92da50eafff4cfe04c111cc04e",
+        "prior_sha256": "024a045feb38ababd4e24b0e042a57d7d6b1a12e02eb28eda72cacf6400513cd",
+        "decision": "replaced"
+      },
+      {
+        "placement": 13,
+        "source_id": "pexels-6163386",
+        "sha256": "26f9261e5595232c1bbd4dcf749a8b14251d3c3e41ef3eda7f237bebc035b501",
+        "prior_sha256": "e715578144230560e1ddc4db1d267d3330a202e515e2c8ff75cf5e1ff5e75e32",
+        "decision": "replaced"
+      },
+      {
+        "placement": 14,
+        "source_id": "pexels-7447127",
+        "sha256": "9abffa1bfd68b29237d9cc1fff6b66d8b4392c0bad2ab314d8d2bf26be7ee5b9",
+        "prior_sha256": "ac7059cfd578605d69b37987627513140d03538d761d7790407743f7ac2f59b3",
+        "decision": "replaced"
+      },
+      {
+        "placement": 15,
+        "source_id": "pexels-19338626",
+        "sha256": "0683eae2858615da8d655e074a786880a5a42102171adde73bee1384ca396501",
+        "prior_sha256": "00032e7dcbb8712b7a19c7616e17c3153433c168018d766f32044bb9b3379db9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 16,
+        "source_id": "studio-B2",
+        "sha256": "2f08e2f72a1cef076da38c0af2e4a3613133386a23706ce402ece2758c792a77",
+        "prior_sha256": "0e5c6a8691f1bf54a55cb478c9edbe5086c9a5ff78ae002481cb5868fe0ec48d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 17,
+        "source_id": "pexels-12706272",
+        "sha256": "ff64bad362d0fcb79f166f4189e172758c52247e63b77922a29c5f613793880a",
+        "prior_sha256": "1f3cd28781f5ddc31d657cc1daf70fb4957f288f5e6fb221ae1e5a61fc8b48fc",
+        "decision": "replaced"
+      },
+      {
+        "placement": 18,
+        "source_id": "studio-F3",
+        "sha256": "fcca3c19c1af580253a156d671b7f491ede7acea929c6187b7ffb5f6164c216d",
+        "prior_sha256": "d5639d31f022d382b57c415d0d13bb116e5bc89bbf912b7b7b47a10aabaed38f",
+        "decision": "replaced"
+      },
+      {
+        "placement": 19,
+        "source_id": "studio-D1",
+        "sha256": "c18cb0434f30a445060d0de1d06b7fa9784e02dce36f27eb9c418dabd21b0871",
+        "prior_sha256": "ca75b9185a3ab11a8083f827954b9698ce86691e980ebc568c3f336ef9866da4",
+        "decision": "replaced"
+      },
+      {
+        "placement": 20,
+        "source_id": "pexels-34443854",
+        "sha256": "0759da6aed29c4f62e80a64148edaddd56e3ae7e1a7454478c32c07b86fbcc52",
+        "prior_sha256": "fee8ae127a2fdca695dc45cc971a5b11e61ad79a7458b8b875a217b446bd0c2b",
+        "decision": "replaced"
+      },
+      {
+        "placement": 21,
+        "source_id": "studio-B3",
+        "sha256": "222958ea7a57edd3524552ea503724392919e3e605ffbf52da42a3a834131c28",
+        "prior_sha256": "947df0105364da335d4ea90be99277f2c5789cd6aea8bff0e509526e1e4bcf31",
+        "decision": "replaced"
+      },
+      {
+        "placement": 22,
+        "source_id": "studio-D4",
+        "sha256": "fb537e031482a0c595130f6d962fdd157d4a51b8e0f3ee5dcbe839f25ecd078f",
+        "prior_sha256": "955b42e1d3c43ee3f7684d8e125aa5346c04a4989bfb1db6f4ea091cb1fcd041",
+        "decision": "replaced"
+      },
+      {
+        "placement": 23,
+        "source_id": "studio-F4",
+        "sha256": "56218804bc59a1d9f00d4269d14bd8423b177d0ed02346d80d97580a79e0e6e1",
+        "prior_sha256": "ef4227bd6cf5421a97fd5bb93ab91cd29e51fc8b85fe7ebd2e16dc82af5f7a03",
+        "decision": "replaced"
+      },
+      {
+        "placement": 24,
+        "source_id": "studio-F5",
+        "sha256": "9667419eb9cb8fb0260acf37b4ab70274a4a2bffc4b1a52040f44e6e73b8953e",
+        "prior_sha256": "d163330f57541ea6fb3b9444346ffb783d7ac2fc42c6fda1d7ca3691e8e96e4a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 25,
+        "source_id": "studio-B4",
+        "sha256": "6f4eaad3b5c16aebe3bface2cc0c8314a9239885cd4fd11aafbca9c9279f191e",
+        "prior_sha256": "6fe120735e1333ec5df734e7744892510ad711a3508eeec03bfad6bb3ea0ea11",
+        "decision": "replaced"
+      },
+      {
+        "placement": 26,
+        "source_id": "pexels-34384315",
+        "sha256": "7d8cdcdccc269861b80d2d2e9c87f5824967369ec7b7bb660440df9c2de8b03c",
+        "prior_sha256": "1b8edd975869b537b8c28fe24d93203696b8d8e300072fdfcc0daadbc0731752",
+        "decision": "replaced"
+      },
+      {
+        "placement": 27,
+        "source_id": "pexels-34443876",
+        "sha256": "b425ae4086ba3cb8d84243c4031579f452a2a0370386bf2f0f76289d527f9377",
+        "prior_sha256": "b9ca65fc997cc45461da60ef87698673b7880d3d9d43d46bb586e79bb0d3789e",
+        "decision": "replaced"
+      },
+      {
+        "placement": 28,
+        "source_id": "studio-B5",
+        "sha256": "c4405d05cfee9d521d312f024841804484d54fb48906904f48290388f864de64",
+        "prior_sha256": "8446b9f39e5f67683ebc5584af0fa76aacf3d1ad2b68d35996a08cc569997814",
+        "decision": "replaced"
+      },
+      {
+        "placement": 29,
+        "source_id": "studio-F8",
+        "sha256": "b0a506d7e644c0668b8cf3d46c592a423aa217777471981a085d8acfc67c79f6",
+        "prior_sha256": "cd19c94698f14a1ea2204cd5ed324f2a306418f1b7aa596458c331adde818d20",
+        "decision": "replaced"
+      },
+      {
+        "placement": 30,
+        "source_id": "studio-D2",
+        "sha256": "a1f01e5944a062bf12331f02cad5a79241526dd441badae2747ddd19b742551e",
+        "prior_sha256": "1cb4667c7051a6d3eec3d0e465f1e229e06d1303fd6b795ae858e54067fe8fd0",
+        "decision": "replaced"
+      },
+      {
+        "placement": 31,
+        "source_id": "pexels-33664383",
+        "sha256": "a8ba38bd8b4c5ac234a9c8af09b3807e5c432140f8add4458632ea4be0f8c527",
+        "prior_sha256": "a7e18caf50c605cd037d2bbc5c00d219a35d910c7f3ea2ac929168831ed375d2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 32,
+        "source_id": "pexels-11728787",
+        "sha256": "d2a085d59823e3c3ac0f49bfc34174af670a2f68dccac6899ad7c7aae798f1d0",
+        "prior_sha256": "a96161ec44e9e7feff497b6bdfe68fa12ef618b8c1154a8202469a86c6003007",
+        "decision": "replaced"
+      },
+      {
+        "placement": 33,
+        "source_id": "pexels-34191305",
+        "sha256": "9c2eaff62e7d62536b9becd3c9fe1854ef9152bdcf559e422c215d03007e2c52",
+        "prior_sha256": "0194792e092d5e45b801b73edc8eeeb7158bba1858f9c8923d11ab83573ab9a1",
+        "decision": "replaced"
+      },
+      {
+        "placement": 34,
+        "source_id": "studio-B6",
+        "sha256": "a37f5a4c8a1cdba3fcb42ae6a978b92941a9df556af34a12f43f1e0f77ad01db",
+        "prior_sha256": "3cb8388a2c6871c442519a152cf934c775b17e50c3a1d626146152b8356f9c1f",
+        "decision": "replaced"
+      },
+      {
+        "placement": 35,
+        "source_id": "pexels-19743920",
+        "sha256": "98bd3e52aded24d82708ea6f53699ea985a83465968067a31ab0e9c89cb140a0",
+        "prior_sha256": "e9d217662f85c26f90c7e793bbea0d22a1fbcd9df8a6b6c789f662280b30450a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 36,
+        "source_id": "studio-F6",
+        "sha256": "279d20cfa2207581d723a15c9f8156a6124474a18d5acb45af0680bdf5aba921",
+        "prior_sha256": "f43b63aae557ce0fbc4406cfaebc5aca47cfbcfe1c1c2978e766f77c68a861e2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 37,
+        "source_id": "studio-D3",
+        "sha256": "069b0aa4576044de65a4dd90d8e63b6d40f19e7154bd9ebf42184859d91abdcc",
+        "prior_sha256": "143c73c129dda95c726b8eab0ebf185f9f54d9239b46dca2e8619486bde42048",
+        "decision": "replaced"
+      }
+    ],
+    "luxury-grooming-club": [
+      {
+        "placement": 1,
+        "source_id": "pexels-13138476",
+        "sha256": "cd8abcd3416f57061f1050c2d46a7d6a53dffeb0f57a026ab9c3a7b654916f6c",
+        "prior_sha256": "e991ca22548a4aac1f576ac3c333ae6db3ac0a1db3fe9f8be9af6ca4f20999ea",
+        "decision": "replaced"
+      },
+      {
+        "placement": 2,
+        "source_id": "pexels-7518739",
+        "sha256": "7b884dc16a269563ef2fd54c4c9a4da53a30ecee7cb55562f14c1e750efef2f7",
+        "prior_sha256": "6145c962e0445055fa797901e46021a131705c61f860ea952eda34b75f9553b2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 3,
+        "source_id": "pexels-7447147",
+        "sha256": "1a9f43f61dbf7e9bd407b9561de96f88e2574152da076018f8d470c1949a3f92",
+        "prior_sha256": "6145c962e0445055fa797901e46021a131705c61f860ea952eda34b75f9553b2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 4,
+        "source_id": "pexels-10825829",
+        "sha256": "d12a1cb4f3ac4e1903cbf7cc003c53406366ef4202c058663ac309b0d309e75b",
+        "prior_sha256": "f1cdea042f27f25681eb316e08373ded3ff071f861b454fbc1d6fd2777586daa",
+        "decision": "replaced"
+      },
+      {
+        "placement": 5,
+        "source_id": "pexels-16778662",
+        "sha256": "861db566317f8fe70e3beb23cdbdff7f6e9422eb57a644d923b3b16cffc316b0",
+        "prior_sha256": "14360a0c2477435a917f8568e5d94b8e053e9b58b1fddf1baa1dea3f4daa5c8e",
+        "decision": "replaced"
+      },
+      {
+        "placement": 6,
+        "source_id": "studio-F7",
+        "sha256": "d0ed12ba679a3ddffe4c361e5927c4380fbafa92698b12438104c53e9ca5190f",
+        "prior_sha256": "0f0960bf397f9aa8768dedbb58745934f93bcff10af07a2149594a3f82913dd9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 7,
+        "source_id": "studio-F1",
+        "sha256": "0c6249fe779361e14134b872f9e6436ca1f09085b111eb75b097c263f694f60b",
+        "prior_sha256": "666a1d567f2b8e55b1a0acce391dcc921734d50cfab32a85d9e7276c307eedb8",
+        "decision": "replaced"
+      },
+      {
+        "placement": 8,
+        "source_id": "pexels-4671331",
+        "sha256": "431b06f7bd5332cd164b6253678eb85ccbdfadf86a773cfab108604742b29fe4",
+        "prior_sha256": "0bd30eb3f5fb1f77b4e5c7b1d502feae97c0bad486373b5a42afd13dbce114bf",
+        "decision": "replaced"
+      },
+      {
+        "placement": 9,
+        "source_id": "pexels-10810251",
+        "sha256": "5ae828d84e225b9a3e2e986a99f5eb2b6242645bcd40f247cbc48f8982827803",
+        "prior_sha256": "7be6b8e80c282da33220c486f2627279f89e85eef694bd81bb1c77d8c5ad3304",
+        "decision": "replaced"
+      },
+      {
+        "placement": 10,
+        "source_id": "pexels-7926723",
+        "sha256": "855cbb91f2a5df7a0d114378819951c7710b56497afe38f1fa92b809c2e5a106",
+        "prior_sha256": "b14e0a53a5c06db76078f19c3766c9c7c0b1bb7a399ed4709e33277e4f155254",
+        "decision": "replaced"
+      },
+      {
+        "placement": 11,
+        "source_id": "studio-F2",
+        "sha256": "47354655f51a77279ca1f8474a925197249365b6fdd549553b23ce7d925dfd64",
+        "prior_sha256": "e991ca22548a4aac1f576ac3c333ae6db3ac0a1db3fe9f8be9af6ca4f20999ea",
+        "decision": "replaced"
+      },
+      {
+        "placement": 12,
+        "source_id": "pexels-32426283",
+        "sha256": "892afc4bc97ac585a6143e17d45e3137deca8d92da50eafff4cfe04c111cc04e",
+        "prior_sha256": "bf70f57526bb117c56991e536d4333cfa3d63c7997b0609bd4766d38256c4862",
+        "decision": "replaced"
+      },
+      {
+        "placement": 13,
+        "source_id": "pexels-7447127",
+        "sha256": "9abffa1bfd68b29237d9cc1fff6b66d8b4392c0bad2ab314d8d2bf26be7ee5b9",
+        "prior_sha256": "c90e1e4959cf9e8ba167e819719b5bbd96c29f158e8cc8ee814381c56a110b99",
+        "decision": "replaced"
+      },
+      {
+        "placement": 14,
+        "source_id": "pexels-12706272",
+        "sha256": "ff64bad362d0fcb79f166f4189e172758c52247e63b77922a29c5f613793880a",
+        "prior_sha256": "5aab2d70d48c1d5f107a9c26f6e520463195c91eac1d8a5cde7637855c8fa9eb",
+        "decision": "replaced"
+      },
+      {
+        "placement": 15,
+        "source_id": "studio-F3",
+        "sha256": "fcca3c19c1af580253a156d671b7f491ede7acea929c6187b7ffb5f6164c216d",
+        "prior_sha256": "3a33d0e847a6f1d74efbb5313844016151f7dd81c1eff21d2065dc122f5224b3",
+        "decision": "replaced"
+      },
+      {
+        "placement": 16,
+        "source_id": "studio-D4",
+        "sha256": "fb537e031482a0c595130f6d962fdd157d4a51b8e0f3ee5dcbe839f25ecd078f",
+        "prior_sha256": "f5d6c5066d4b38feb9d83c2d7a23a1f470e13976d6dbf9d3ce45981d71ccd506",
+        "decision": "replaced"
+      },
+      {
+        "placement": 17,
+        "source_id": "studio-F4",
+        "sha256": "56218804bc59a1d9f00d4269d14bd8423b177d0ed02346d80d97580a79e0e6e1",
+        "prior_sha256": "ac88c952381f6e0b7d4ad1779035659976f4247c011cb3aaf52a7cf3dd64195e",
+        "decision": "replaced"
+      },
+      {
+        "placement": 18,
+        "source_id": "studio-F5",
+        "sha256": "9667419eb9cb8fb0260acf37b4ab70274a4a2bffc4b1a52040f44e6e73b8953e",
+        "prior_sha256": "5ef11b153fdf86538b282108f9b1d8dc20025ffbd13404c906a829ec20a138e2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 19,
+        "source_id": "studio-F8",
+        "sha256": "b0a506d7e644c0668b8cf3d46c592a423aa217777471981a085d8acfc67c79f6",
+        "prior_sha256": "332b3f94ff2ec554bfad9a9a28d58faa9d9d0fe2b6174ac39fbe932c0ce7f273",
+        "decision": "replaced"
+      },
+      {
+        "placement": 20,
+        "source_id": "studio-F6",
+        "sha256": "279d20cfa2207581d723a15c9f8156a6124474a18d5acb45af0680bdf5aba921",
+        "prior_sha256": "290e3d1cead07dd3e26e20020aea32d7ee5062ec2108ef02517dfb7630437b72",
+        "decision": "replaced"
+      }
+    ],
+    "fade-lab": [
+      {
+        "placement": 1,
+        "source_id": "pexels-9703068",
+        "sha256": "fe349de60f46f582fe0312eb8103f127ee47a97cc07c5e17c1087e2e7565a4a7",
+        "prior_sha256": "5a1be1d9608f41f35e707de2ff47da8d25de2d6d3387eb58f55e970b1f8138e1",
+        "decision": "replaced"
+      },
+      {
+        "placement": 2,
+        "source_id": "pexels-7447133",
+        "sha256": "a18ad1c390393510bf2d2e125f80ecc7e7b948547e424c8080a089f2ef5b6c17",
+        "prior_sha256": "0f2ce9c6b3e67ce9f8e2c3d5e37ddaf573258a6e0cd936db7724932b2644051d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 3,
+        "source_id": "studio-B2",
+        "sha256": "2f08e2f72a1cef076da38c0af2e4a3613133386a23706ce402ece2758c792a77",
+        "prior_sha256": "f52f2a623aa06beed46c401a7b65061f8ebf4c98af3d3677812524c44af78f7c",
+        "decision": "replaced"
+      },
+      {
+        "placement": 4,
+        "source_id": "pexels-10810251",
+        "sha256": "5ae828d84e225b9a3e2e986a99f5eb2b6242645bcd40f247cbc48f8982827803",
+        "prior_sha256": "eedb78856ccda89cacd4cdd05e189ba4546a03355d122dc495509b0c4d37db9d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 5,
+        "source_id": "studio-F7",
+        "sha256": "d0ed12ba679a3ddffe4c361e5927c4380fbafa92698b12438104c53e9ca5190f",
+        "prior_sha256": "5ce08d641460e8aa419d39735edcbd251cc47b062017d59469b7225f1845eb22",
+        "decision": "replaced"
+      },
+      {
+        "placement": 6,
+        "source_id": "studio-F1",
+        "sha256": "0c6249fe779361e14134b872f9e6436ca1f09085b111eb75b097c263f694f60b",
+        "prior_sha256": "463fb154f67b13c81d121d2ef9f8c7709c83ab88ad03665be080560e0561154e",
+        "decision": "replaced"
+      },
+      {
+        "placement": 7,
+        "source_id": "studio-D4",
+        "sha256": "fb537e031482a0c595130f6d962fdd157d4a51b8e0f3ee5dcbe839f25ecd078f",
+        "prior_sha256": "f92aa7b33e81765344c046d08827ad4d4b27f40b420c9d92ada5972e7911e5bd",
+        "decision": "replaced"
+      },
+      {
+        "placement": 8,
+        "source_id": "pexels-10825829",
+        "sha256": "d12a1cb4f3ac4e1903cbf7cc003c53406366ef4202c058663ac309b0d309e75b",
+        "prior_sha256": "eb28d1c604a60bfa3a426a2dfef4ed5993276cd6a1c31727207ff8ab141da77a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 9,
+        "source_id": "pexels-33664383",
+        "sha256": "a8ba38bd8b4c5ac234a9c8af09b3807e5c432140f8add4458632ea4be0f8c527",
+        "prior_sha256": "3e401ba689f426adb00b5087cf84755e5a528df91cb3455037ac919604abdba2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 10,
+        "source_id": "pexels-7926723",
+        "sha256": "855cbb91f2a5df7a0d114378819951c7710b56497afe38f1fa92b809c2e5a106",
+        "prior_sha256": "fa71ec89d078988522ab448b32bdea091429795a74f96a08111e7ca41f84b6d9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 11,
+        "source_id": "pexels-10223860",
+        "sha256": "2c540608962b414851afc0e784e9aeb375b043cb97f8b698e3cbe676de804776",
+        "prior_sha256": "9ad7eb549d3f2d60dd751205d9840cdaba9b373078ee50aeea7aceac94706fc9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 12,
+        "source_id": "pexels-6163386",
+        "sha256": "26f9261e5595232c1bbd4dcf749a8b14251d3c3e41ef3eda7f237bebc035b501",
+        "prior_sha256": "024a045feb38ababd4e24b0e042a57d7d6b1a12e02eb28eda72cacf6400513cd",
+        "decision": "replaced"
+      },
+      {
+        "placement": 13,
+        "source_id": "pexels-11728787",
+        "sha256": "d2a085d59823e3c3ac0f49bfc34174af670a2f68dccac6899ad7c7aae798f1d0",
+        "prior_sha256": "e715578144230560e1ddc4db1d267d3330a202e515e2c8ff75cf5e1ff5e75e32",
+        "decision": "replaced"
+      },
+      {
+        "placement": 14,
+        "source_id": "pexels-3891347",
+        "sha256": "1a3f65aecdf1606d13f082374099cdb389da53f09d77bf577aceaafe848bdb42",
+        "prior_sha256": "ac7059cfd578605d69b37987627513140d03538d761d7790407743f7ac2f59b3",
+        "decision": "replaced"
+      },
+      {
+        "placement": 15,
+        "source_id": "studio-B5",
+        "sha256": "c4405d05cfee9d521d312f024841804484d54fb48906904f48290388f864de64",
+        "prior_sha256": "00032e7dcbb8712b7a19c7616e17c3153433c168018d766f32044bb9b3379db9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 16,
+        "source_id": "pexels-4671331",
+        "sha256": "431b06f7bd5332cd164b6253678eb85ccbdfadf86a773cfab108604742b29fe4",
+        "prior_sha256": "0e5c6a8691f1bf54a55cb478c9edbe5086c9a5ff78ae002481cb5868fe0ec48d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 17,
+        "source_id": "pexels-12706272",
+        "sha256": "ff64bad362d0fcb79f166f4189e172758c52247e63b77922a29c5f613793880a",
+        "prior_sha256": "1f3cd28781f5ddc31d657cc1daf70fb4957f288f5e6fb221ae1e5a61fc8b48fc",
+        "decision": "replaced"
+      },
+      {
+        "placement": 18,
+        "source_id": "studio-F9",
+        "sha256": "add724e3dab8a0418ce7913e5df3f497c6edd65d30a49aa5c4da2d93629a457b",
+        "prior_sha256": "d5639d31f022d382b57c415d0d13bb116e5bc89bbf912b7b7b47a10aabaed38f",
+        "decision": "replaced"
+      },
+      {
+        "placement": 19,
+        "source_id": "studio-B1",
+        "sha256": "4e575dcbc4c3ee63b4d8b4cc4dc1a1b7cfcc29e2ebbf5f2fd824de6a3e17b244",
+        "prior_sha256": "ca75b9185a3ab11a8083f827954b9698ce86691e980ebc568c3f336ef9866da4",
+        "decision": "replaced"
+      },
+      {
+        "placement": 20,
+        "source_id": "pexels-19338626",
+        "sha256": "0683eae2858615da8d655e074a786880a5a42102171adde73bee1384ca396501",
+        "prior_sha256": "fee8ae127a2fdca695dc45cc971a5b11e61ad79a7458b8b875a217b446bd0c2b",
+        "decision": "replaced"
+      },
+      {
+        "placement": 21,
+        "source_id": "pexels-19743922",
+        "sha256": "8b4a4da6825a26cd506cd6ace64106d09d246c49a1219057f60c6ef5d41800e5",
+        "prior_sha256": "947df0105364da335d4ea90be99277f2c5789cd6aea8bff0e509526e1e4bcf31",
+        "decision": "replaced"
+      },
+      {
+        "placement": 22,
+        "source_id": "pexels-34191305",
+        "sha256": "9c2eaff62e7d62536b9becd3c9fe1854ef9152bdcf559e422c215d03007e2c52",
+        "prior_sha256": "955b42e1d3c43ee3f7684d8e125aa5346c04a4989bfb1db6f4ea091cb1fcd041",
+        "decision": "replaced"
+      },
+      {
+        "placement": 23,
+        "source_id": "pexels-13450758",
+        "sha256": "910fa1a3219d462838a61c476fc383ea258b93678567a05f2048af262e69cc57",
+        "prior_sha256": "ef4227bd6cf5421a97fd5bb93ab91cd29e51fc8b85fe7ebd2e16dc82af5f7a03",
+        "decision": "replaced"
+      },
+      {
+        "placement": 24,
+        "source_id": "pexels-7447127",
+        "sha256": "9abffa1bfd68b29237d9cc1fff6b66d8b4392c0bad2ab314d8d2bf26be7ee5b9",
+        "prior_sha256": "d163330f57541ea6fb3b9444346ffb783d7ac2fc42c6fda1d7ca3691e8e96e4a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 25,
+        "source_id": "studio-B8",
+        "sha256": "f13377f20a602f92804cc8b6f0feb707ceb930813c394eab80a33e21d1908a84",
+        "prior_sha256": "6fe120735e1333ec5df734e7744892510ad711a3508eeec03bfad6bb3ea0ea11",
+        "decision": "replaced"
+      },
+      {
+        "placement": 26,
+        "source_id": "studio-B6",
+        "sha256": "a37f5a4c8a1cdba3fcb42ae6a978b92941a9df556af34a12f43f1e0f77ad01db",
+        "prior_sha256": "1b8edd975869b537b8c28fe24d93203696b8d8e300072fdfcc0daadbc0731752",
+        "decision": "replaced"
+      },
+      {
+        "placement": 27,
+        "source_id": "pexels-32426283",
+        "sha256": "892afc4bc97ac585a6143e17d45e3137deca8d92da50eafff4cfe04c111cc04e",
+        "prior_sha256": "b9ca65fc997cc45461da60ef87698673b7880d3d9d43d46bb586e79bb0d3789e",
+        "decision": "replaced"
+      },
+      {
+        "placement": 28,
+        "source_id": "studio-B3",
+        "sha256": "222958ea7a57edd3524552ea503724392919e3e605ffbf52da42a3a834131c28",
+        "prior_sha256": "8446b9f39e5f67683ebc5584af0fa76aacf3d1ad2b68d35996a08cc569997814",
+        "decision": "replaced"
+      },
+      {
+        "placement": 29,
+        "source_id": "pexels-39559325",
+        "sha256": "60fcdd8b64b99f1bc73a91626bbccf97994e683a0c90e365b9d42469fee9ebf5",
+        "prior_sha256": "cd19c94698f14a1ea2204cd5ed324f2a306418f1b7aa596458c331adde818d20",
+        "decision": "replaced"
+      },
+      {
+        "placement": 30,
+        "source_id": "pexels-34443854",
+        "sha256": "0759da6aed29c4f62e80a64148edaddd56e3ae7e1a7454478c32c07b86fbcc52",
+        "prior_sha256": "1cb4667c7051a6d3eec3d0e465f1e229e06d1303fd6b795ae858e54067fe8fd0",
+        "decision": "replaced"
+      },
+      {
+        "placement": 31,
+        "source_id": "pexels-34384315",
+        "sha256": "7d8cdcdccc269861b80d2d2e9c87f5824967369ec7b7bb660440df9c2de8b03c",
+        "prior_sha256": "a7e18caf50c605cd037d2bbc5c00d219a35d910c7f3ea2ac929168831ed375d2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 32,
+        "source_id": "studio-B9",
+        "sha256": "d338845f4a55e58812fc21c28bb64cfaaa669176d3fd3d926c9576ab98843497",
+        "prior_sha256": "a96161ec44e9e7feff497b6bdfe68fa12ef618b8c1154a8202469a86c6003007",
+        "decision": "replaced"
+      },
+      {
+        "placement": 33,
+        "source_id": "pexels-34443876",
+        "sha256": "b425ae4086ba3cb8d84243c4031579f452a2a0370386bf2f0f76289d527f9377",
+        "prior_sha256": "0194792e092d5e45b801b73edc8eeeb7158bba1858f9c8923d11ab83573ab9a1",
+        "decision": "replaced"
+      },
+      {
+        "placement": 34,
+        "source_id": "pexels-19743920",
+        "sha256": "98bd3e52aded24d82708ea6f53699ea985a83465968067a31ab0e9c89cb140a0",
+        "prior_sha256": "3cb8388a2c6871c442519a152cf934c775b17e50c3a1d626146152b8356f9c1f",
+        "decision": "replaced"
+      },
+      {
+        "placement": 35,
+        "source_id": "studio-F6",
+        "sha256": "279d20cfa2207581d723a15c9f8156a6124474a18d5acb45af0680bdf5aba921",
+        "prior_sha256": "e9d217662f85c26f90c7e793bbea0d22a1fbcd9df8a6b6c789f662280b30450a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 36,
+        "source_id": "pexels-7781848",
+        "sha256": "12926d6084a63d5dcdd58fc141f9823269939af4935cedc48e35f9d3f78088ce",
+        "prior_sha256": "f43b63aae557ce0fbc4406cfaebc5aca47cfbcfe1c1c2978e766f77c68a861e2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 37,
+        "source_id": "studio-D3",
+        "sha256": "069b0aa4576044de65a4dd90d8e63b6d40f19e7154bd9ebf42184859d91abdcc",
+        "prior_sha256": "143c73c129dda95c726b8eab0ebf185f9f54d9239b46dca2e8619486bde42048",
+        "decision": "replaced"
+      }
+    ],
+    "barber-collective": [
+      {
+        "placement": 1,
+        "source_id": "pexels-7518715",
+        "sha256": "3b2bea98721667a6a17de4d11680855f0699441db8974ed388525007da892c4f",
+        "prior_sha256": "5a1be1d9608f41f35e707de2ff47da8d25de2d6d3387eb58f55e970b1f8138e1",
+        "decision": "replaced"
+      },
+      {
+        "placement": 2,
+        "source_id": "pexels-7447146",
+        "sha256": "4e4a15655aba4e5bd732471d533417604ca7fd42b61c39ea2731bc5d8d2d5f34",
+        "prior_sha256": "4f4e68a709395d15fed9bbf54a29ac75b61a094be0aac08d0a517e3785a7c708",
+        "decision": "replaced"
+      },
+      {
+        "placement": 3,
+        "source_id": "pexels-7447127",
+        "sha256": "9abffa1bfd68b29237d9cc1fff6b66d8b4392c0bad2ab314d8d2bf26be7ee5b9",
+        "prior_sha256": "ccd5428ada7d85f5232ba5489e9e2d95059553e5e7db3ed5852ff2a5b75516d0",
+        "decision": "replaced"
+      },
+      {
+        "placement": 4,
+        "source_id": "pexels-10810251",
+        "sha256": "5ae828d84e225b9a3e2e986a99f5eb2b6242645bcd40f247cbc48f8982827803",
+        "prior_sha256": "48a845f43af9cbf18cf6fb4a1402d126be67fedef75132566cef3681021af705",
+        "decision": "replaced"
+      },
+      {
+        "placement": 5,
+        "source_id": "studio-B1",
+        "sha256": "4e575dcbc4c3ee63b4d8b4cc4dc1a1b7cfcc29e2ebbf5f2fd824de6a3e17b244",
+        "prior_sha256": "9a8eb25f346e16314bbd738b37985b6c64c79049b9b47684630f619a1cfd3d46",
+        "decision": "replaced"
+      },
+      {
+        "placement": 6,
+        "source_id": "studio-F7",
+        "sha256": "d0ed12ba679a3ddffe4c361e5927c4380fbafa92698b12438104c53e9ca5190f",
+        "prior_sha256": "5ce08d641460e8aa419d39735edcbd251cc47b062017d59469b7225f1845eb22",
+        "decision": "replaced"
+      },
+      {
+        "placement": 7,
+        "source_id": "studio-F1",
+        "sha256": "0c6249fe779361e14134b872f9e6436ca1f09085b111eb75b097c263f694f60b",
+        "prior_sha256": "463fb154f67b13c81d121d2ef9f8c7709c83ab88ad03665be080560e0561154e",
+        "decision": "replaced"
+      },
+      {
+        "placement": 8,
+        "source_id": "studio-F3",
+        "sha256": "fcca3c19c1af580253a156d671b7f491ede7acea929c6187b7ffb5f6164c216d",
+        "prior_sha256": "fa71ec89d078988522ab448b32bdea091429795a74f96a08111e7ca41f84b6d9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 9,
+        "source_id": "studio-B2",
+        "sha256": "2f08e2f72a1cef076da38c0af2e4a3613133386a23706ce402ece2758c792a77",
+        "prior_sha256": "0e5c6a8691f1bf54a55cb478c9edbe5086c9a5ff78ae002481cb5868fe0ec48d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 10,
+        "source_id": "pexels-30753563",
+        "sha256": "b51b3ff8909225e7980610478fffb46ddf474ff489cfc08ff1d1f86d21f803a3",
+        "prior_sha256": "73d748484cce963620472e885dc5e284843910d58b633f67ce30d491fd56d146",
+        "decision": "replaced"
+      },
+      {
+        "placement": 11,
+        "source_id": "studio-F6",
+        "sha256": "279d20cfa2207581d723a15c9f8156a6124474a18d5acb45af0680bdf5aba921",
+        "prior_sha256": "e9d217662f85c26f90c7e793bbea0d22a1fbcd9df8a6b6c789f662280b30450a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 12,
+        "source_id": "studio-D3",
+        "sha256": "069b0aa4576044de65a4dd90d8e63b6d40f19e7154bd9ebf42184859d91abdcc",
+        "prior_sha256": "ca75b9185a3ab11a8083f827954b9698ce86691e980ebc568c3f336ef9866da4",
+        "decision": "replaced"
+      },
+      {
+        "placement": 13,
+        "source_id": "pexels-7447145",
+        "sha256": "9807522077456f30aae64e7e0bfbd25a35983a533ee39cd4a8ad6c9df042ba23",
+        "prior_sha256": "9ad7eb549d3f2d60dd751205d9840cdaba9b373078ee50aeea7aceac94706fc9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 14,
+        "source_id": "pexels-39559325",
+        "sha256": "60fcdd8b64b99f1bc73a91626bbccf97994e683a0c90e365b9d42469fee9ebf5",
+        "prior_sha256": "1f3cd28781f5ddc31d657cc1daf70fb4957f288f5e6fb221ae1e5a61fc8b48fc",
+        "decision": "replaced"
+      },
+      {
+        "placement": 15,
+        "source_id": "pexels-10825829",
+        "sha256": "d12a1cb4f3ac4e1903cbf7cc003c53406366ef4202c058663ac309b0d309e75b",
+        "prior_sha256": "fee8ae127a2fdca695dc45cc971a5b11e61ad79a7458b8b875a217b446bd0c2b",
+        "decision": "replaced"
+      },
+      {
+        "placement": 16,
+        "source_id": "studio-F5",
+        "sha256": "9667419eb9cb8fb0260acf37b4ab70274a4a2bffc4b1a52040f44e6e73b8953e",
+        "prior_sha256": "d163330f57541ea6fb3b9444346ffb783d7ac2fc42c6fda1d7ca3691e8e96e4a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 17,
+        "source_id": "pexels-7781852",
+        "sha256": "14a5cde2ae987d26db86c0ee5c0f438c6d0d848827d8e99edda5135f7a1e7ef1",
+        "prior_sha256": "a8de67c2a7b2c6e9cf25f5bd5fd15190d5aeefce9c3bdf352a61e6e087b7c28c",
+        "decision": "replaced"
+      },
+      {
+        "placement": 18,
+        "source_id": "pexels-32426283",
+        "sha256": "892afc4bc97ac585a6143e17d45e3137deca8d92da50eafff4cfe04c111cc04e",
+        "prior_sha256": "0f95bf76108e7717f740d6a5409fbe8eaa876ff52c304548dd13749a88fe6d8d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 19,
+        "source_id": "pexels-3891347",
+        "sha256": "1a3f65aecdf1606d13f082374099cdb389da53f09d77bf577aceaafe848bdb42",
+        "prior_sha256": "cdecd9e86d9a6d355706004c243a98d88e55b3e964c9f50cba29e2b0ee68aa1c",
+        "decision": "replaced"
+      },
+      {
+        "placement": 20,
+        "source_id": "studio-B6",
+        "sha256": "a37f5a4c8a1cdba3fcb42ae6a978b92941a9df556af34a12f43f1e0f77ad01db",
+        "prior_sha256": "885417a39a32899f1e1044631c3867b7b0a35bd9aaecd77a829a37ce172b20c8",
+        "decision": "replaced"
+      },
+      {
+        "placement": 21,
+        "source_id": "pexels-41122205",
+        "sha256": "5b611355d75e324ecc594743b3ceb52a2c2840ccdef69addb3179c4bc0f70b29",
+        "prior_sha256": "d7116993912a17ae62693d43a7de3a9838d968d3fa9d93e6499c4382b59f0a3c",
+        "decision": "replaced"
+      },
+      {
+        "placement": 22,
+        "source_id": "studio-D1",
+        "sha256": "c18cb0434f30a445060d0de1d06b7fa9784e02dce36f27eb9c418dabd21b0871",
+        "prior_sha256": "143c73c129dda95c726b8eab0ebf185f9f54d9239b46dca2e8619486bde42048",
+        "decision": "replaced"
+      }
+    ],
+    "neighborhood-barber": [
+      {
+        "placement": 1,
+        "source_id": "pexels-20785318",
+        "sha256": "c9b4bdcfe7703315b2b36b3524657ed0fca655177c5ca2ea6c28f9887232572c",
+        "prior_sha256": "5a1be1d9608f41f35e707de2ff47da8d25de2d6d3387eb58f55e970b1f8138e1",
+        "decision": "replaced"
+      },
+      {
+        "placement": 2,
+        "source_id": "pexels-7447147",
+        "sha256": "1a9f43f61dbf7e9bd407b9561de96f88e2574152da076018f8d470c1949a3f92",
+        "prior_sha256": "5a1be1d9608f41f35e707de2ff47da8d25de2d6d3387eb58f55e970b1f8138e1",
+        "decision": "replaced"
+      },
+      {
+        "placement": 3,
+        "source_id": "pexels-27467943",
+        "sha256": "98e2c1f9586a796984721186e4dae949fd7478e87b0a622251f69e577cc54f15",
+        "prior_sha256": "0f2ce9c6b3e67ce9f8e2c3d5e37ddaf573258a6e0cd936db7724932b2644051d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 4,
+        "source_id": "studio-D5",
+        "sha256": "a17feffe5f3823e5f33c038b2774d01df210554c92ddd459c1fdf415b920f608",
+        "prior_sha256": "f52f2a623aa06beed46c401a7b65061f8ebf4c98af3d3677812524c44af78f7c",
+        "decision": "replaced"
+      },
+      {
+        "placement": 5,
+        "source_id": "pexels-32426283",
+        "sha256": "892afc4bc97ac585a6143e17d45e3137deca8d92da50eafff4cfe04c111cc04e",
+        "prior_sha256": "eedb78856ccda89cacd4cdd05e189ba4546a03355d122dc495509b0c4d37db9d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 6,
+        "source_id": "pexels-3998412",
+        "sha256": "aa277666efdd632c82fc81b57d721c1778bcd06d1d15d28596ebba60b422a1c7",
+        "prior_sha256": "5ce08d641460e8aa419d39735edcbd251cc47b062017d59469b7225f1845eb22",
+        "decision": "replaced"
+      },
+      {
+        "placement": 7,
+        "source_id": "pexels-13450758",
+        "sha256": "910fa1a3219d462838a61c476fc383ea258b93678567a05f2048af262e69cc57",
+        "prior_sha256": "463fb154f67b13c81d121d2ef9f8c7709c83ab88ad03665be080560e0561154e",
+        "decision": "replaced"
+      },
+      {
+        "placement": 8,
+        "source_id": "pexels-8440067",
+        "sha256": "d34b249eb76e3608872972a52a76a0d45e173b22425bd162e44ac88b0c239b08",
+        "prior_sha256": "f92aa7b33e81765344c046d08827ad4d4b27f40b420c9d92ada5972e7911e5bd",
+        "decision": "replaced"
+      },
+      {
+        "placement": 9,
+        "source_id": "pexels-4850600",
+        "sha256": "5d2757ac90972942eec994c90ea892df104cc49189c6fea2acd0179fc3b5b5df",
+        "prior_sha256": "eb28d1c604a60bfa3a426a2dfef4ed5993276cd6a1c31727207ff8ab141da77a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 10,
+        "source_id": "pexels-8422336",
+        "sha256": "814869c8a0e11e958beacf4cc4dd271c0d2ed5f3d436117c58024a71bdacf26e",
+        "prior_sha256": "3e401ba689f426adb00b5087cf84755e5a528df91cb3455037ac919604abdba2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 11,
+        "source_id": "pexels-39559325",
+        "sha256": "60fcdd8b64b99f1bc73a91626bbccf97994e683a0c90e365b9d42469fee9ebf5",
+        "prior_sha256": "fa71ec89d078988522ab448b32bdea091429795a74f96a08111e7ca41f84b6d9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 12,
+        "source_id": "studio-D6",
+        "sha256": "0161f4dcde32fc30ac248cccacd3a9bd926e69994dd9b764657af02cb876d774",
+        "prior_sha256": "9ad7eb549d3f2d60dd751205d9840cdaba9b373078ee50aeea7aceac94706fc9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 13,
+        "source_id": "pexels-6616681",
+        "sha256": "888fb1ef79546af5b6886f25043afecf19173d9fce66fa13ebd650d200a765d0",
+        "prior_sha256": "024a045feb38ababd4e24b0e042a57d7d6b1a12e02eb28eda72cacf6400513cd",
+        "decision": "replaced"
+      },
+      {
+        "placement": 14,
+        "source_id": "pexels-16098668",
+        "sha256": "e564d5721226f71382a08091513d6d7a651ef75702c1d1105aa21d5e41c339af",
+        "prior_sha256": "e715578144230560e1ddc4db1d267d3330a202e515e2c8ff75cf5e1ff5e75e32",
+        "decision": "replaced"
+      },
+      {
+        "placement": 15,
+        "source_id": "pexels-19338626",
+        "sha256": "0683eae2858615da8d655e074a786880a5a42102171adde73bee1384ca396501",
+        "prior_sha256": "ac7059cfd578605d69b37987627513140d03538d761d7790407743f7ac2f59b3",
+        "decision": "replaced"
+      },
+      {
+        "placement": 16,
+        "source_id": "pexels-10003357",
+        "sha256": "6dcd8cd4c7cb7444cc1af0ba60b3df6b215f149d3c0ac58937632dc83ad15071",
+        "prior_sha256": "00032e7dcbb8712b7a19c7616e17c3153433c168018d766f32044bb9b3379db9",
+        "decision": "replaced"
+      },
+      {
+        "placement": 17,
+        "source_id": "pexels-17928570",
+        "sha256": "e85716257c7f335bdb16742803b53c58f73378ae7f910a82f34bf0d4f33f8725",
+        "prior_sha256": "0e5c6a8691f1bf54a55cb478c9edbe5086c9a5ff78ae002481cb5868fe0ec48d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 18,
+        "source_id": "studio-D8",
+        "sha256": "c036cba92ce2e099ad9b7cab5882fe34efbb4459859b48b40acebd6fbfe29bb8",
+        "prior_sha256": "1f3cd28781f5ddc31d657cc1daf70fb4957f288f5e6fb221ae1e5a61fc8b48fc",
+        "decision": "replaced"
+      },
+      {
+        "placement": 19,
+        "source_id": "studio-D9",
+        "sha256": "853e68141e17270cf6aba0779c8fbf415d134a7031ae258948753b19f459b9d1",
+        "prior_sha256": "d5639d31f022d382b57c415d0d13bb116e5bc89bbf912b7b7b47a10aabaed38f",
+        "decision": "replaced"
+      },
+      {
+        "placement": 20,
+        "source_id": "pexels-11515382",
+        "sha256": "b724b4332971383b45cdbaf5d5902fc18a92a66d7c36b66b409ea753d2b4a617",
+        "prior_sha256": "ca75b9185a3ab11a8083f827954b9698ce86691e980ebc568c3f336ef9866da4",
+        "decision": "replaced"
+      },
+      {
+        "placement": 21,
+        "source_id": "pexels-17589638",
+        "sha256": "f5bf1c7f4d5310bf021cb957de24b1f1c3c757cce6999091e9a86f5641b16c36",
+        "prior_sha256": "fee8ae127a2fdca695dc45cc971a5b11e61ad79a7458b8b875a217b446bd0c2b",
+        "decision": "replaced"
+      },
+      {
+        "placement": 22,
+        "source_id": "pexels-7589418",
+        "sha256": "fa0ba313069accb96e6a64ba67e582151625423bb091e404203c4cecb11968c0",
+        "prior_sha256": "947df0105364da335d4ea90be99277f2c5789cd6aea8bff0e509526e1e4bcf31",
+        "decision": "replaced"
+      },
+      {
+        "placement": 23,
+        "source_id": "pexels-7451210",
+        "sha256": "2a56afa3dea96e16ba8075985a8a7b080feb47717bee58a0de658aeca8c94462",
+        "prior_sha256": "955b42e1d3c43ee3f7684d8e125aa5346c04a4989bfb1db6f4ea091cb1fcd041",
+        "decision": "replaced"
+      },
+      {
+        "placement": 24,
+        "source_id": "pexels-7518755",
+        "sha256": "211d30ab642ab505ea3eb8a094cc00c47efb1e540d7096561dc5409bf8a3ee52",
+        "prior_sha256": "ef4227bd6cf5421a97fd5bb93ab91cd29e51fc8b85fe7ebd2e16dc82af5f7a03",
+        "decision": "replaced"
+      },
+      {
+        "placement": 25,
+        "source_id": "pexels-10810251",
+        "sha256": "5ae828d84e225b9a3e2e986a99f5eb2b6242645bcd40f247cbc48f8982827803",
+        "prior_sha256": "d163330f57541ea6fb3b9444346ffb783d7ac2fc42c6fda1d7ca3691e8e96e4a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 26,
+        "source_id": "pexels-3998429",
+        "sha256": "a100e5eb63265cf6f718c22d6499fc68dad69be221b3e35354e16c8d424e363a",
+        "prior_sha256": "6fe120735e1333ec5df734e7744892510ad711a3508eeec03bfad6bb3ea0ea11",
+        "decision": "replaced"
+      },
+      {
+        "placement": 27,
+        "source_id": "pexels-39559305",
+        "sha256": "c097a2d3ec71b503ac19b461fcf6307369d58fa936d9b8814ffa7c1dcfe48994",
+        "prior_sha256": "1b8edd975869b537b8c28fe24d93203696b8d8e300072fdfcc0daadbc0731752",
+        "decision": "replaced"
+      },
+      {
+        "placement": 28,
+        "source_id": "studio-D7",
+        "sha256": "d28a90a28c8b25a85d5204753d7648a85f9a0b8d1dd330325f1b3776ebf50ad2",
+        "prior_sha256": "b9ca65fc997cc45461da60ef87698673b7880d3d9d43d46bb586e79bb0d3789e",
+        "decision": "replaced"
+      },
+      {
+        "placement": 29,
+        "source_id": "pexels-12706272",
+        "sha256": "ff64bad362d0fcb79f166f4189e172758c52247e63b77922a29c5f613793880a",
+        "prior_sha256": "8446b9f39e5f67683ebc5584af0fa76aacf3d1ad2b68d35996a08cc569997814",
+        "decision": "replaced"
+      },
+      {
+        "placement": 30,
+        "source_id": "pexels-33664383",
+        "sha256": "a8ba38bd8b4c5ac234a9c8af09b3807e5c432140f8add4458632ea4be0f8c527",
+        "prior_sha256": "cd19c94698f14a1ea2204cd5ed324f2a306418f1b7aa596458c331adde818d20",
+        "decision": "replaced"
+      },
+      {
+        "placement": 31,
+        "source_id": "pexels-4307710",
+        "sha256": "db6afe87360870cda3225fbb48a1f73762ed02df0cf7c33cbc5763be2119ff22",
+        "prior_sha256": "1cb4667c7051a6d3eec3d0e465f1e229e06d1303fd6b795ae858e54067fe8fd0",
+        "decision": "replaced"
+      },
+      {
+        "placement": 32,
+        "source_id": "pexels-39559262",
+        "sha256": "3a72022f83e1894efda715a1ead0a9c21a2e55a0058127ba87dd4f20bd10278b",
+        "prior_sha256": "a7e18caf50c605cd037d2bbc5c00d219a35d910c7f3ea2ac929168831ed375d2",
+        "decision": "replaced"
+      },
+      {
+        "placement": 33,
+        "source_id": "pexels-19433855",
+        "sha256": "13075158d2fa83ac6ca9cef05514743353edae563df4dadbf389ec9296985432",
+        "prior_sha256": "a96161ec44e9e7feff497b6bdfe68fa12ef618b8c1154a8202469a86c6003007",
+        "decision": "replaced"
+      },
+      {
+        "placement": 34,
+        "source_id": "pexels-23531768",
+        "sha256": "bd32c82c91a2c7613f2e7d92c399d5c4bff1bccec2563a903b6d5f8da1f92006",
+        "prior_sha256": "0194792e092d5e45b801b73edc8eeeb7158bba1858f9c8923d11ab83573ab9a1",
+        "decision": "replaced"
+      },
+      {
+        "placement": 35,
+        "source_id": "pexels-11482130",
+        "sha256": "df83e9620191663334d61dc3f0d6a7e09d020fc25aff8ddff28b93b507d05138",
+        "prior_sha256": "3cb8388a2c6871c442519a152cf934c775b17e50c3a1d626146152b8356f9c1f",
+        "decision": "replaced"
+      },
+      {
+        "placement": 36,
+        "source_id": "pexels-41122205",
+        "sha256": "5b611355d75e324ecc594743b3ceb52a2c2840ccdef69addb3179c4bc0f70b29",
+        "prior_sha256": "e9d217662f85c26f90c7e793bbea0d22a1fbcd9df8a6b6c789f662280b30450a",
+        "decision": "replaced"
+      },
+      {
+        "placement": 37,
+        "source_id": "pexels-19753275",
+        "sha256": "20c00866a0f7fe99513304a16695575820798177a9d105a0c19e704c5017c03a",
+        "prior_sha256": "f43b63aae557ce0fbc4406cfaebc5aca47cfbcfe1c1c2978e766f77c68a861e2",
+        "decision": "replaced"
+      }
+    ],
+    "linework-studio": [
+      {
+        "placement": 1,
+        "source_id": "pexels-34443876",
+        "sha256": "c2aefd9982100a9c1b59af3a89cd9207b3ebb70c60b5602296ad1a81724ecb88",
+        "prior_sha256": "3416985b34142cc4efb0f194d62f4960e2cd56ffb0b98c9a61ea0ee3707ce2ef",
+        "decision": "replaced"
+      },
+      {
+        "placement": 2,
+        "source_id": "pexels-7447145",
+        "sha256": "9807522077456f30aae64e7e0bfbd25a35983a533ee39cd4a8ad6c9df042ba23",
+        "prior_sha256": "05149a4f4663d554648c20d344f84d8c1437d6d7c58412fdda7bbd511ddb2a1c",
+        "decision": "replaced"
+      },
+      {
+        "placement": 3,
+        "source_id": "pexels-7518689",
+        "sha256": "c2429f7bac75f711e888ba0150ebd74a575b36818e4f38caa78f856df0269316",
+        "prior_sha256": "85ef456c64f5a82ca9e06a44c349ab977a8ae1db835a5b795a1c5ba0164f48d5",
+        "decision": "replaced"
+      },
+      {
+        "placement": 4,
+        "source_id": "pexels-1319459",
+        "sha256": "3654c27a7ee72d9ee132de0b1579e173793c6e5b6696c375d0480a7236e8d848",
+        "prior_sha256": "0b0f4ea03f4be2bc167de3b421783ce6f6bf0c0b8558b8836d9e5094ccb74991",
+        "decision": "replaced"
+      },
+      {
+        "placement": 5,
+        "source_id": "pexels-7465903",
+        "sha256": "2327f899f71d7fd1f17271d1bb63175d0e6d48a60e6ba3125daea127df5e0462",
+        "prior_sha256": "26d756f669d8303dc9efece20172bb5fec48d025015f773aa349038ae8c70cf0",
+        "decision": "replaced"
+      },
+      {
+        "placement": 6,
+        "source_id": "pexels-7518712",
+        "sha256": "3e69c057ee0040cd2009afea11a7c84ca41385ba0747aa2cef95efb19eb3ea31",
+        "prior_sha256": "bf47d02b2982147400a2b23ec04ecbf68ed82257c02e42b9f76aeaccd1a4e4a4",
+        "decision": "replaced"
+      },
+      {
+        "placement": 7,
+        "source_id": "pexels-32426283",
+        "sha256": "892afc4bc97ac585a6143e17d45e3137deca8d92da50eafff4cfe04c111cc04e",
+        "prior_sha256": "a0b4129f27314b679626ab2037bfccf9f05a10e2891ee4276b0de00f652e4539",
+        "decision": "replaced"
+      },
+      {
+        "placement": 8,
+        "source_id": "pexels-10810251",
+        "sha256": "5ae828d84e225b9a3e2e986a99f5eb2b6242645bcd40f247cbc48f8982827803",
+        "prior_sha256": "43c2aa2f913af81f30e6a7d3d2ba6eb7301abc72e0ba4a0d83c8701ce70ed521",
+        "decision": "replaced"
+      },
+      {
+        "placement": 9,
+        "source_id": "pexels-34384315",
+        "sha256": "7d8cdcdccc269861b80d2d2e9c87f5824967369ec7b7bb660440df9c2de8b03c",
+        "prior_sha256": "e9448e54d41eca4fd90c0d3732d56c44bcc35da55d6a44c737b1bf2fc8b91517",
+        "decision": "replaced"
+      },
+      {
+        "placement": 10,
+        "source_id": "studio-B7",
+        "sha256": "b0eac247fbd4662bb11249df0da10dddb107fa9ad41acef20861fafeb94ed83b",
+        "prior_sha256": "67a2ed57736c934eae08bbec2042250a86f31957575de6d30cd5fa133193ddd1",
+        "decision": "replaced"
+      },
+      {
+        "placement": 11,
+        "source_id": "pexels-7447133",
+        "sha256": "a18ad1c390393510bf2d2e125f80ecc7e7b948547e424c8080a089f2ef5b6c17",
+        "prior_sha256": "5e53b243fca43ad863eda0df6fae0f558e0837e12b250ebfdca93a914dbcad05",
+        "decision": "replaced"
+      },
+      {
+        "placement": 12,
+        "source_id": "pexels-30753563",
+        "sha256": "b51b3ff8909225e7980610478fffb46ddf474ff489cfc08ff1d1f86d21f803a3",
+        "prior_sha256": "eb28f7e2ac945eee99c854ed94f4b28c483062fbaf1e360c1763fed165945775",
+        "decision": "replaced"
+      },
+      {
+        "placement": 13,
+        "source_id": "pexels-7518730",
+        "sha256": "e0ac7838549d69c56ba80be00a003c6a73aa8b412441127df189a1b647568d63",
+        "prior_sha256": "bdf2d91ff5532584ef261fffe823bad6eb1015e27b91f9e3602699199615e56f",
+        "decision": "replaced"
+      }
+    ],
+    "hue-curl-studio": [
+      {
+        "placement": 1,
+        "source_id": "pexels-15477990",
+        "sha256": "874b0a054092cfaf35636f81e92fd7bae794805bb4d233628911851d4c2efea6",
+        "prior_sha256": "87df07c4241f00e85596bb7f855cf6d3fadf4ec229f0adb157a6a78c327f0a82",
+        "decision": "replaced"
+      },
+      {
+        "placement": 2,
+        "source_id": "pexels-10898376",
+        "sha256": "d42dd6690d494478e6340922eb195abe57989aff4d5d37b9277efd243c2d28e6",
+        "prior_sha256": "d8d42b9c44fff92cf135d7d64f96e9eacfb4331f54f5d7e69b05a933d3f5f8e8",
+        "decision": "replaced"
+      },
+      {
+        "placement": 3,
+        "source_id": "pexels-39201808",
+        "sha256": "8b3164bb3c814c7e0284ebf70203dfa2d6824a6003b028c757424dcb2882c2f5",
+        "prior_sha256": "e3bea0b0dd538ee14e36284ccfd2644e9abad399d2fe7d0398d3036967ff9609",
+        "decision": "replaced"
+      },
+      {
+        "placement": 4,
+        "source_id": "pexels-32018123",
+        "sha256": "86b53c2fe37c9eb5de5d44df731db749c48df5e03b698ecd8a9d6cd2114ec951",
+        "prior_sha256": "5e0335f7e8d3dc540506e6a46489ed86cd5282d53721afce05c777e3ee49f3ac",
+        "decision": "replaced"
+      },
+      {
+        "placement": 5,
+        "source_id": "pexels-27792837",
+        "sha256": "e1be902bae73cc1c8b239a6a49d52975baa8f6cb455a80aea7a415b99fdbcf0f",
+        "prior_sha256": "c071ace07b9753cb003ac968f45de32333f609f0ddeea91386df59cecdbd57d0",
+        "decision": "replaced"
+      },
+      {
+        "placement": 6,
+        "source_id": "pexels-5611480",
+        "sha256": "ad3e32c52e994d474066053bad343526bfb16d73ef62d22354320b3d9885228d",
+        "prior_sha256": "dece2fbbf0ac6ae7e76ba7c5c1d688acbf4ceef53b0033b08c56c002ce5fd75c",
+        "decision": "replaced"
+      },
+      {
+        "placement": 7,
+        "source_id": "pexels-3404207",
+        "sha256": "da40f93c2d1619db2252619d9ea6783118da80a41048612a92b7d9b8a1aba3d1",
+        "prior_sha256": "56e3d7ce30276e31da3813d4c301fba71e9ad70e3c5930a8688d60ac15669bf5",
+        "decision": "replaced"
+      }
+    ],
+    "braid-bar": [
+      {
+        "placement": 1,
+        "source_id": "pexels-37115258",
+        "sha256": "094922b7546745d2317ab85f7ae379d5c87dbcf4dd92e5dd9b318e1ddc6a3fd4",
+        "prior_sha256": "faedebf03c8108ff5ca42e845eb989fec37753b3164dd0975117b28f6e899c06",
+        "decision": "replaced"
+      },
+      {
+        "placement": 2,
+        "source_id": "pexels-37115256",
+        "sha256": "943974987f108a22694b7c43f66d63a787a769d5a8c39ef62e3b42ca6651d7e3",
+        "prior_sha256": "518b21d0d521275fd6a84b1d935fec03f670d0bca3fc1a006dc4ea9c69a746bf",
+        "decision": "replaced"
+      },
+      {
+        "placement": 3,
+        "source_id": "pexels-7951589",
+        "sha256": "e39bb700bb27c5991e3cb9fb956ef9ba38580d881e8c1de301fe5916421dde2d",
+        "prior_sha256": "3073eb2e4668fcceea2bb8799c9dfef2b669368579764091a8d52e1b8fbce4e7",
+        "decision": "replaced"
+      },
+      {
+        "placement": 4,
+        "source_id": "pexels-8259902",
+        "sha256": "5c19a2bfc41a474d0cbd8226e0976a0a3405cd7421178f3e40699a473b82ae94",
+        "prior_sha256": "94d06b3242af5a0be5ae1a324a7a52ca036abd8f7374e673721f62f556cb9310",
+        "decision": "replaced"
+      },
+      {
+        "placement": 5,
+        "source_id": "pexels-11482135",
+        "sha256": "c844468b8096113d9e3d16492037ba91ac6aae4511c1c340334e0e651b61ebf9",
+        "prior_sha256": "bc8c140a556ffa3e829aff00406294a819f70fbf619159e845b63aa9eece578d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 6,
+        "source_id": "pexels-27987128",
+        "sha256": "79090173a45c22cea8e7caa2464dd43947bfac00e66f226b72bb6a73a12d3579",
+        "prior_sha256": "e97515235cae9713203e336197556fa85401adc1208ef7a4a1f8c479bc63a74d",
+        "decision": "replaced"
+      },
+      {
+        "placement": 7,
+        "source_id": "pexels-31065905",
+        "sha256": "85fcaa6e7d45bc63322f9ccb4b0da1eff545ebfb481c699d705b23f3846509ec",
+        "prior_sha256": "7302a17bcd836f8bbaa69cf047392c93cb89e7cfee8edd18f7b01c274856e08b",
+        "decision": "replaced"
+      }
+    ],
+    "heritage-barber-co": [
+      {
+        "placement": 1,
+        "source_id": "heritage-1",
+        "sha256": "7af165224ee58b9d380f47f436e0cbba35fe468705057dd61ee2b3c59a8794f7",
+        "prior_sha256": "a8e3ceb99268c8bbe69170d8b6f622bc5e10ad5220644df52685cb9f6beb5246",
+        "decision": "restored documented marketplace preview"
+      },
+      {
+        "placement": 2,
+        "source_id": "heritage-2",
+        "sha256": "9087a086960aef5da43b5d6606e0ea11c5ef3d410a70f9e99ca4668b9fa9fe5f",
+        "prior_sha256": "4bb14f48f39ad84ac27bbd58d8b5fc7ad214880861354b4f2b81bf4bdccec402",
+        "decision": "restored documented marketplace preview"
+      },
+      {
+        "placement": 3,
+        "source_id": "heritage-3",
+        "sha256": "cfb284c14859e65c50e47233f76c78f6e8ee71c64cb64b3466d3d4c87dc9c213",
+        "prior_sha256": "0bd706776ccbf5b4bf7b484145899ebf9c0b5f2a838becf4cf85c9f77312e8d7",
+        "decision": "restored documented marketplace preview"
+      },
+      {
+        "placement": 4,
+        "source_id": "heritage-4",
+        "sha256": "6877a5042b95320aeb6a1eb9f0330d86dd5f6c90dc459cfdaa9bb8b7cbb71bec",
+        "prior_sha256": "2b65891d9a15c9555414a96f442c6cb7409ef191f28338c10917576f9053eb70",
+        "decision": "restored documented marketplace preview"
+      },
+      {
+        "placement": 5,
+        "source_id": "heritage-5",
+        "sha256": "196e24cedfce5fa3c489f7ddef451c92e2d0a26769b89f585c590d80a24febbf",
+        "prior_sha256": "9258e6ebdc5c5b87ec3044ac54c1bdc49339ee9b0541fb320ec2d27c9251928e",
+        "decision": "restored documented marketplace preview"
+      },
+      {
+        "placement": 6,
+        "source_id": "heritage-6",
+        "sha256": "98c77ed687ac3deb32d6fddbb26723b466a8bdfb2b0c18a9cc7c662f005681d5",
+        "prior_sha256": "6f3a1beec0cee7aa0093b1a8fe960c4058edf773338a4f97fb0ddf7bfa0392ad",
+        "decision": "restored documented marketplace preview"
+      },
+      {
+        "placement": 7,
+        "source_id": "heritage-7",
+        "sha256": "20ed8de9fa3e46741b6b2cc1d010d448312dcfc3b16ec28d84f53c5ad7653bcf",
+        "prior_sha256": "feb7cbae8f4912382084f925f060b29977f321d68676fa1d39aab988053f48bf",
+        "decision": "restored documented marketplace preview"
+      },
+      {
+        "placement": 8,
+        "source_id": "heritage-8",
+        "sha256": "66b12dd2cf4e2bb33332ee4da18f65a7cafecc91bdafc41df3768c53316e9aff",
+        "prior_sha256": "154f075cda82586704adbd8a1aa902c99f9f5fadc85f264fe8ed7ed41d2aa9f7",
+        "decision": "restored documented marketplace preview"
+      }
+    ]
+  }
+}

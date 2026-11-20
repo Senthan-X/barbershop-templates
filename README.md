@@ -39,3 +39,7 @@ The repository includes a GitHub Pages workflow. Each template can also be deplo
 ## Credit
 
 Built by **Senthan & Co**.
+
+## Preview photography
+
+The [imagery ledger](./BARBERSHOP-IMAGERY.json) identifies the source of every embedded demo photo, its author or generation record, and its WebP checksum. The [downloadable collection](./senthan-barbershop-templates.zip) includes all nine templates with editable photo slots and setup guides.
